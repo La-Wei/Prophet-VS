@@ -9,10 +9,13 @@ Mappa di lavoro per diagnosi e lettura incrociata. Le affermazioni sotto derivan
 - [5530 pagina 1](../05_pagine_rilevanti/note/5530/page_001.md)
 - [5530 pagina 3](../05_pagine_rilevanti/note/5530/page_003.md)
 - [5530 pagina 4](../05_pagine_rilevanti/note/5530/page_004.md)
+- [CEM5530: diagnosi, ricambi e dissipazione](../01_problemi_e_fix/cem5530_diagnosi_ricambi.md)
 - PDF supplementare: [5508.pdf](../06_pdf_originali/5508.pdf), utile come riferimento S&H generico ma non trattato come prova che quel chip sia montato nel Prophet VS esaminato.
 
 ## Componenti importanti
 U449/U425 CEM5530, DAC/U451 6012, U453/U454 HC174 e concetti CEM5530/5508 per hold, droop e timing.
+
+Nota pratica: `U449/U425` sono anche componenti storicamente fragili; prima di sostituirli controllare rail/timing/socket/piste, e valutare dissipatori o cloni solo con conferma strumentale.
 
 ## Rail importanti
 +12V, -12V, +8V, +5.6V, -5V, +5VD, VDD/VSS/VREF.

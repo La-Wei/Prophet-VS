@@ -8,11 +8,13 @@ Questa e' la pagina da leggere per prima. Non e' una diagnosi certa: e' una list
 | --- | --- | --- | --- |
 | Alta | Segnale che rientra dopo il controllo volume | Seguire il segnale prima/dopo volume e confrontare left/right, dry/chorus/output | Riparare punto di accoppiamento, jack/connettore, saldatura o componente nello stadio output |
 | Alta | VCA che non chiude per CV errata | Misurare CV `VCA` a volume zero e durante il bleed | Correggere la causa della CV errata: S&H, riferimento, rail, saldatura, componente nel percorso VCA |
-| Alta | S&H/CEM5530 con droop, ripple o timing errato | Osservare uscite `VCA/VCF/PAN/LEV`, `INH`, DAC/riferimenti e rail locali | Riparare rail locali, timing/logica o componente S&H solo dopo prova strumentale |
+| Alta | S&H/CEM5530 con droop, ripple, guasto parziale o timing errato | Osservare uscite `VCA/VCF/PAN/LEV`, `INH`, DAC/riferimenti e rail locali; vedi `cem5530_diagnosi_ricambi.md` | Riparare rail locali, timing/logica o componente S&H solo dopo prova strumentale; valutare clone/dissipatore sul chip se confermato |
 | Media | Chorus/output/op amp che lascia passare o distorce | Confrontare uscita dry/chorus, canali left/right, DC offset e saturazione op amp | Riparare op amp, condensatori o reti R/C dello stadio output/chorus se misurati difettosi |
 | Media | Rail analogici/digitali rumorosi o bassi | Misurare `+5VD`, `+12V`, `-12V`, `+8V`, `+5.6V`, `-5V` e ripple | Riparare alimentazione, condensatori, diodi/rectifier, ground o carico a valle |
 | Media | Pressure/aftertouch che contamina CV | Misurare `PRESSURE/SENSOR`, `TP301/TP302`, valori ECR e risposta aftertouch | Correggere rete pressure, saldature, connettori o modifiche ECR fatte male |
 | Media | Riparazione precedente / ECR sbagliata | Ispezione di jumper, tagli piste, pad sollevati, valori resistenze | Rifare la riparazione in modo pulito seguendo schema e board reale |
+| Media | Jack output/footswitch rotti o normalizzazione ossidata | I 4 jack posteriori hanno plastica rotta; verificare tip/ring/sleeve/switch e footprint | Sostituire tutti e 4 i jack; vedi `jack_sostituzione.md` e `pannello_posteriore_ricambi.md` |
+| Media | Porta/selettore `MIDI OUT/THRU` rugginoso | Verificare se e' la presa DIN, un piccolo slide switch `OUT/THRU`, o entrambi; test MIDI OUT e THRU separati | Pulire solo se recuperabile; se ruggine forte, sostituire presa DIN/switch con stesso footprint; vedi `pannello_posteriore_ricambi.md` |
 
 Prima prova pratica: capire se il bleed e' gia' presente prima del volume oppure nasce dopo. Questo decide se partire da VCA/S&H o da output/chorus.
 
@@ -36,6 +38,8 @@ I tre TO-220 nella foto `../foto/IMG_5543.jpg` sono regolatori:
 
 Nota importante: il regolatore caldo e' gia' stato sostituito con uno piu capiente. Quindi il fix non e' "metterne uno ancora piu grande" finche non si misura cosa lo sta facendo dissipare.
 
+Nota separazione problemi: il calore dei `CEM5530` e il case caldo nella zona `U301/U302/U303` sono problemi termici distinti. Possono essere collegati solo se una misura mostra rail disturbato o carico anomalo comune.
+
 ## Ordine di lavoro consigliato
 
 1. Ispezione visiva a strumento spento: regolatori, condensatori, connettori, zone ECR e output.
@@ -49,5 +53,8 @@ Nota importante: il regolatore caldo e' gia' stato sostituito con uno piu capien
 
 - `technician_briefing_volume_zero_bleed.md`
 - `quick_navigation_map.md`
+- `cem5530_diagnosi_ricambi.md`
+- `jack_sostituzione.md`
+- `pannello_posteriore_ricambi.md`
 - `../02_checklist_misure/visual_inspection_checklist.md`
 - `../02_checklist_misure/safe_measurement_plan.md`

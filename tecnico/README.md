@@ -10,8 +10,11 @@ Questa cartella e' pensata per un tecnico che deve diagnosticare un Sequential C
 1. `01_problemi_e_fix/cause_e_fix.md`
 2. `01_problemi_e_fix/technician_briefing_volume_zero_bleed.md`
 3. `01_problemi_e_fix/quick_navigation_map.md`
-4. `02_checklist_misure/visual_inspection_checklist.md`
-5. `02_checklist_misure/safe_measurement_plan.md`
+4. `01_problemi_e_fix/cem5530_diagnosi_ricambi.md`
+5. `01_problemi_e_fix/jack_sostituzione.md`
+6. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
+7. `02_checklist_misure/visual_inspection_checklist.md`
+8. `02_checklist_misure/safe_measurement_plan.md`
 
 ## Identificazione regolatori nella foto
 

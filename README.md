@@ -10,8 +10,11 @@ Questa repository contiene materiale preparato per aiutare un tecnico a diagnost
 1. [Cause possibili e fix](tecnico/01_problemi_e_fix/cause_e_fix.md)
 2. [Briefing tecnico](tecnico/01_problemi_e_fix/technician_briefing_volume_zero_bleed.md)
 3. [Mappa rapida](tecnico/01_problemi_e_fix/quick_navigation_map.md)
-4. [Checklist ispezione](tecnico/02_checklist_misure/visual_inspection_checklist.md)
-5. [Piano misure sicure](tecnico/02_checklist_misure/safe_measurement_plan.md)
+4. [CEM5530: diagnosi e ricambi](tecnico/01_problemi_e_fix/cem5530_diagnosi_ricambi.md)
+5. [Jack posteriori](tecnico/01_problemi_e_fix/jack_sostituzione.md)
+6. [Ricambi pannello posteriore](tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md)
+7. [Checklist ispezione](tecnico/02_checklist_misure/visual_inspection_checklist.md)
+8. [Piano misure sicure](tecnico/02_checklist_misure/safe_measurement_plan.md)
 
 ## Cartelle
 

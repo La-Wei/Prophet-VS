@@ -9,7 +9,7 @@
 | `U305 HC132` | Reset/logica | Reset gate; rail instabili possono creare comportamenti digitali strani | pvs_service pagina 4, ECR739 pagina 4 |
 | `U310` | Pressure circuit | Op amp/IC nel circuito pressure lato keyboard/power | pvs_service pagina 4, ECR739 pagina 4 |
 | `U459` | Pressure sensor | Op amp pressure lato main analog/S&H; vicino a R458/ECR738 | pvs_service pagina 6, ECR738 pagina 2 |
-| `U449/U425 CEM5530` | Sample & hold / CV | Generano CV `VCA/VCF/PAN/LEV` e chorus/final CV; candidati per droop/modulation leak | pvs_service pagina 6, 5530 pagine 1/3/4 |
+| `U449/U425 CEM5530` | Sample & hold / CV | Generano CV `VCA/VCF/PAN/LEV` e chorus/final CV; noti come punto fragile del Prophet VS; vedi `../01_problemi_e_fix/cem5530_diagnosi_ricambi.md` | pvs_service pagina 6, 5530 pagine 1/3/4 |
 | `5508.pdf` | Riferimento S&H | Datasheet S&H supplementare utile per concetti di hold/droop/timing; non prova che PD508/5508 sia montato nello strumento | PDF in `06_pdf_originali/` |
 | `U451` | DAC/riferimento S&H | Parte del percorso DAC verso CEM5530 | pvs_service pagina 6 |
 | `U453/U454` | Timing/logica S&H | Logica associata a controllo/timing CV | pvs_service pagina 6 |
