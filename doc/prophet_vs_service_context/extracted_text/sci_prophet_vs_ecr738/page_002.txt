@@ -1,0 +1,565 @@
+SOURCE: doc/sci_prophet_vs_ecr738.pdf
+PAGE: 2
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+ir
+
+"4
+
+TUpPt Pe gs
+
+i
+
+erie
+
+Sect
+
+ed
+
+ot
+
+1
+
+DESCRIPTION
+
+ey
+
++8y
+
+ah
+
+'
+
+tov heetee Jae
+
+4
+
+Woe ;
+
+.
+
+1
+
+40
+
+VEAL
+
+S— Cure
+
+NCA Z
+
+our
+
+Hey
+
+ouT 2
+
+VCA
+
+VcA4
+
+ors
+
+VCAS
+
+6. BIC
+
+our 4
+
++ OUTS
+
+NCA G,
+
+PRESSURE SENSOR
+
+So re Sao
+
+RASS
+
+VOAT
+
+ITK
+
+oOUuTG
+
+Si
+
+ADA
+
+our?y
+
+MCA &
+
+Vcr
+
+i
+
+By
+
+MCF 2
+
+cAIs6
+
+9/2
+
+Uae?
+
+OUT 19}
+
+ia
+
+VCF 3
+
+aN
+
++i
+
+1449"
+
+our 1) PE NEF 4s <
+
+——— ae
+
+L450
+
+cAla7
+
+o> 40 Sensor.
+
+‘ote
+
+ame tg eee
+
+ee
+
+Ue
+
+an
+
+i z PanDp
+
+OUT H
+
+‘ NCE
+
++8v
+
+OUT IS
+
+—I2N
+
+OUT Ks
+
+api
+
+--PAN { .
+
+pe
+
+<4c6
+
+78
+
++o
+
+PAN 2
+
+view
+
+OuTI7
+
+<40z
+
+ours
+
+4-1
+
+PANS we
+
+ace
+
+D4c
+
+PANS
+
+25v
+
+oT
+
+Vor.
+
+ouTe
+
+a
+
+LEV AL
+
+160.
+
+TANT
+
+(H>
+
+ouTl
+
+LEV Az
+
+0401
+
+our 2)
+
+PAN ©
+
+(H>
+
+OUTER
+
+26 5
+
+PAN 7,
+
+cura {+ LEV AS TES
+
+| © |r
+
+PAN &
+
+(H>
+
+LEV Ad
+
+cao
+
+i>
+
+oura
+
+LEV A5
+
+» OUTZAB=
+
+LE! RES.
+
+Lev
+
+~iZy
+
+o*L 25y +5
+
+HT RE!
+
+ours
+
+i>
+
+WTs
+
+Al
+
+Gio
+
+Our 2]
+
+OTUs)
+
+ris
+
+Lev 4s
+
+st
+
+Lone
+
+oTTy
+
+LEV Bi
+
++l2¥
+
+eer
+
+t>14
+
+wgs
+
+CUTs
+
+ouT 28
+
+Mise
+
+ouT?
+
+LEV B2,
+
+134
+
+a
+
+.
+
+OVTE?
+
+Fra CY
+
+Ss
+
+28
+
+vss.
+
+our wit LEV B30 >
+
+7
+
+Tor
+
+2b
+
+cAOoo
+
+our ul
+
+Ley 64
+
+MOS | VIEME
+
+- 34
+
+out iJ
+
+LEV BS,
+
+42,556,310
+
+LEV Be.
+
+*
+
+ee
+
+Our 13)
+
+'qo
+
+Myi2ISz le
+
+ouTy
+
+LEV B7
+
+at l2N
+
+i 3
+
+OUT
+
+LEV BS,
+
+LEV Col
+
+AS
+
+OUT 16!
+
+Pao2 pos
+
+SAS
+
+3t
+
+ouTy
+
+LEV ¢:;
+
+iS
+
+.
+
+SAA
+
+Al
+
+LEV CS.
+
+> @ LEFT CHORUS ON
+
+our aR
+
+LEV ¢4
+
+2a
+
+> 7 RIGHT CHORUS ON
+
+SAG
+
+33
+
+AS
+
+OuT I?
+
+2
+
+SAI
+
+ul
+
+LEY cS
+
+> | curmr m
+
+Ad
+
+LEV Ce
+
+ouTay
+
+CUT 22)
+
+LEVG?
+
+> 1045.6
+
+our 23)
+
+LEV cS
+
+LEV Dt
+
+> ih HZ
+
+out a4
+
+Piz 42
+
+our 2523 —__ LEW D2 an,
+
+2e9 PGND
+
+VN
+
+pape I Ley B37
+
+catut :
+
+on
+
+=
+
+“=
+
+cur 27
+
+i
+
+@V
+
+INK
+
+GND
+
+ouTe7 &
+
+Ven
+
+& CAPACITANCE IN MICRO ARADS
+
+¥2,U440
+
+cS
+
+Z ALL RESISTORS. Mw, 5%
+
+HD.
+
+7
+
+RAaz
+
+L RESISTANCE i CHMS
+
+Tk
+
+062 >
+
+NOTES, UNLESS OTHERWISE APecimep:
+
+T ca ae or
+
+3051 N, FIRST ST.
+
+12
+
+C4
+
+~by
+
+HEN | CATis
+
+i 0022
+
+SAN JOSE,CA, 95134
+
+rs)
+
+Lie
+
+mE SCHEMATIC «POR.
+
+ay
+
+i=
+
+Aasl
+
+Econnaeset
+
+v
+
+_
+
+MAIN ANALOG,
+
+@400
+
+3)0
+
+Po ke
+
+1
+
+c4d7s
+
+4 CAT
+
+=) T cae
+
+sar
+
+SAMPLE 2HOLD : SENSOR
+
+T0022
+
+REV
+
+ke
+
+a
+
+‘SD 400-4
+
+aw
+
+ON
+
+fas
+
+SCALE: — |
+
+[steer | oF 4
+
+wee

@@ -1,0 +1,829 @@
+SOURCE: doc/pvs_service.pdf
+PAGE: 4
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+3
+
+C309
+
+KEYBOARD MATRIX
+
+PRESSURE CIRCUIT
+
+ot
+
+P3035
+
+HAV
+
+4D
+
+KEYBOAR.
+
+R307
+
+DBS
+
+ER
+
+INNER CONTACT (FIRST MAKE)
+
+R321
+
+OFFSET
+
+c3i9
+
+R308
+
+W234 pZ02,
+
+aVay
+
+(oF
+
+2K
+
+OK
+
+f2)
+
+in TAL
+
+PRESSURE,
+
+Lo
+
+4U305°
+
+SMnz [>
+
+RB!
+
+XTALZ
+
+RBI
+
+R309
+
+N34
+
+200
+
+Hose
+
+a7K
+
+D314
+
+1 REARS
+
+50%
+
++5Vp
+
+PH
+
+Por
+
+Boas | eee fe
+
++av
+
+Hdv
+
+Daz [al IT) ; pe RESET
+
+R320
+
+Vey
+
+Zi INH4
+
+R305
+
+RBG
+
+U307
+
+|
+
+|
+
+1306
+
+1oK
+
+C301,
+
+4 7OK
+
+Pi2|
+
+BV de Lor feat Jor Jon J
+
+Ra
+
+10K
+
+a
+
+R304
+
+le
+
+KYNT<G}
+
+24
+
+ZA
+
+4Vny
+
+Haar Dat Gat GaP GaP OAronre:
+
+0305
+
+Way
+
+t8V0
+
+m
+
+hq
+
+Ie
+
+310
+
+TP3O2 0307 Ao )
+
+INq04
+
+Va2
+
+Ra
+
+uzlo ¢-4
+
+FRONT wot
+
+eh A) cee i <4
+
+al
+
+03.3
+
+OK
+
+pat
+
+R302
+
+U304
+
+T3110
+
+IN34
+
+i) P23
+
+[082
+
+47K
+
+3025 OK
+
+Inaood |
+
+\|
+
+TeSO1
+
+D308
+
+O61
+
+we | 68B0I
+
+PIS)
+
+r "ONT EMAERNN,
+
+| ,cail
+
+INN4
+
+pau
+
+C305 4 301
+
+20>
+
+al
+
+1002 T sow
+
+Saari
+
+Lx,
+
+-l2v
+
+0302
+
+iia P202
+
+EREVAN EN
+
+—_----—~—
+
+MPSOV
+
+ad
+
+p> 27.2 +Svi>
+
+FRE
+
+Plé
+
+Hpi
+
+HARBWARE ON CHASSIS
+
+Fes OF
+
+TT!
+
+D301 dlesiee, C3
+
+«| C304
+
+“D> Zio +E
+
+Mc STNOBY
+
+I
+
+Fl
+
+XMFR
+
+{P3201
+
+4700
+
+4700
+
+2.2 TANT
+
+au ae. 19,21 DE
+
+be, oat or, os, aN, Bi deer Joe A
+
+ol
+
+| te VET @ 2.54
+
+P51
+
+pr 72d,
+
+He
+
+fay at
+
+Tran _P3¢
+
+fe vBe
+
+Asc)
+
+iw
+
+INARA,
+
+I
+
+ee Shond Pe Su, ILIA
+
+6>t
+
+INADOZ a4
+
+431,25,69.10
+
+st2
+
+LLNS
+
+p3eveT a
+
+0303)
+
++5VD
+
+A\aaiee
+
+C
+
+{ COMA
+
+i
+
+3b |
+
+eo Jon Cae ah food, “si J re Fre\ Joo \
+
+{!
+
+the ie at
+
+I 7G +IZY
+
+T4HC36T
+
+‘oe
+
+t5yD
+
+{
+
+IG
+
+SEE DETAL AE
+
+onl
+
+O30
+
+D306) + ea
+
+a: iz, TANT
+
+9
+
+Ve
+
+29
+
+Pa I i
+
+i
+
+wee a EE
+
+35v
+
+vas
+
+i
+
+>
+
+INS
+
+a4
+
+P40
+
+NII ALACRA,
+
+C307
+
+\S.4. Sv
+
+(%
+
+2
+
+WI
+
+wl
+
+2
+
+27
+
+P42.
+
+PBA!
+
+pe
+
+4D
+
++ 1900
+
+Ws
+
+23
+
+Leot >
+
+2
+
+iAZ
+
+Pad
+
+a Nga Vd ort on Lah fant Lor J
+
+IG
+
+mae
+
+24 sty
+
+os
+
+7
+
+2
+
+1A
+
+24
+
+oaait |
+
+49 18>44
+
++P yy
+
+tt
+
+x4
+
+pas
+
+PZOD
+
+‘0
+
+Tas
+
+bs
+
+241
+
+2A
+
+baw
+
+bg
+
+1
+
+t$——-319 LEFT CHORUG ON,
+
+LO MONO
+
+5oV
+
+FRONT viIEW
+
+Ko
+
+3
+
+33, |
+
+ca death Jos Jor fer Jee frost Jer J
+
+(4
+
+fp———+-320 WIGHT CHORUS ON
+
+1
+
+aor
+
+2yv2
+
+2a2|'4
+
+HC174
+
+2NBH4 |
+
+=
+
+7805
+
++ ZG
+
+Joo
+
+Sine
+
+SEE
+
+303,
+
+7Bi2
+
+1G
+
+Gud
+
+To
+
+FIMIZ
+
+B
+
+SwWiN,
+
+LI
+
+P3g
+
+STR ERAT,
+
+BH
+
+P20R
+
+2) QUT FUT EN
+
+ica
+
++5vD,
+
+is
+
+31S
+
+Uox
+
+29 BALT EN
+
+123
+
+an |
+
+ARC
+
+7
+
+aa
+
+{E> BAUR
+
+top
+
+i
+
+ir
+
+ee
+
+PEs WER deen,
+
+|
+
+Os
+
+LE> wR SEI
+
+fo
+
+3h yl
+
+WAL
+
+309
+
+eB tba
+
+92st
+
+pa
+
+cla
+
+Kos
+
+WZ
+
+WAZ
+
+p43
+
+P36 Ek
+
+|
+
+RBGe ASI2
+
+23
+
+ly
+
+“ALAA,
+
+R3IS
+
+ion
+
+IGA
+
+3301
+
+vB
+
+3 fe
+
+Pat
+
+P37
+
+DOK
+
+Io
+
+ING
+
+ing pO
+
+22
+
+pa?
+
+C37
+
+SECOND
+
+ty
+
+"ARN PRIA LAN,
+
+ol
+
+Al
+
+alle
+
+Yoo
+
+2X1
+
+2At
+
+R33
+
+FOOT SWITCH
+
+DETAIL A
+
+BETAIL B
+
+oll
+
+2yvz
+
+2A2
+
+Lowe f— —f— —Z-—4-—-—k- - £- - E- —+44
+
+Kole 4
+
+220 VAL
+
+HO VAL
+
+26
+
+‘SVoO
+
+45V0
+
+17
+
+iS
+
+a
+
+jesse
+
+FOOTSWITTH
+
+AUXILIARY
+
+IG
+
+GND.
+
+a oe _
+
+—_—
+
+RS
+
+RRO
+
+P303
+
+alfa
+
++SVD
+
+R302)
+
+1m
+
+21K
+
+_ = —4-—
+
+i 1
+
+ZOOK
+
++SVo
+
+P3302,
+
+rey
+
+CARRY
+
+INAS
+
+RST
+
+GD 4022
+
+Veo}
+
+D309
+
+Vas.
+
+0306
+
+a] czo3
+
+L c=
+
+WsT CE vn
+
+13)
+
+COLUMN
+
+Vsurzt
+
+ja
+
+\¢
+
+oe
+
+12
+
+Wc
+
+we
+
+am
+
+q HCIO
+
+SPARES:
+
+DIGITAL. 2400
+
+KEYBOARD ANU FOWER COPPL
+
+ee a Ss A SR SS ee ee eee ees es ee es
+
+oll
+
+V4 U30S
+
+v4 U305
+
+RA3O2,
+
+RAZOIL
+
+|
+
+SDZ400-3
+
+|
+
+NN
+
++ ere bem Cattnenie Raprogragrs
+
+Ei» con
+
+DO NOT sate | SHEET 2 OF
+
+f 4-0

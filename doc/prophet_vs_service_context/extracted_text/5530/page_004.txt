@@ -1,0 +1,103 @@
+SOURCE: doc/5530.pdf
+PAGE: 4
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+for which INHIBIT must remain high has two requirements:
+
+Since the input offset of the input op-amp is nulled out during
+
+this period, INHIBIT must remain high at least long enough for
+
+the auto-zeroing process to complete, or 2uS minimum. .The other
+
+constraint is that INHIBIT must remain high at least the address
+
+hold time (nominally 166nS) after the address has changed, to
+
+allow for address decoder settling.
+
+Normally, the new input
+
+voltage value also is allowed to settle out during this high
+
+period.
+
+Then, when INHIBIT changes to its low state, the output of the
+
+addressed channel will change to equal the input voltage.
+
+The
+
+INHIBIT should remain low long enough for the Sample & Hold to
+
+acquire the new value to the desired resolution (acquisition
+
+time).
+
+If the input voltage has not finished settling by the
+
+time INHIBIT changes low, then INHIBIT should remain low for the
+
+acquisition time plus the additional time required for input
+
+settling.
+
+Normally, it is a good idea to keep INHIBIT high as
+
+long as possible, bringing it low only the amount of time
+
+required to properly refresh and update the channel Sample &
+
+Hold.
+
+During the output hold time when INHIBIT is high or the channel
+
+is not being addressed, the output will change only at the droop
+
+rate; thus the complete cycle of auto-zero plus Sample & Hold
+
+acquisition should be repeated at intervals frequent enough to
+
+prevent the droo
+
+desired amount.
+
+p voltage (ripple) from exceeding the maximum
+
+INH
+
+\—thaa—|
+
+tepr—ai
+
+ADDR
+
+VIN
+
+'
+
+et set
+
+'
+
+Vour
+
+‘
+
+'
+
+NL
+
+‘
+
+\
+
+ro—tae—ale—tacg—
+
+'(avte zero) :-
+
+'
+
+FIG. 1: CEMSS30 TIMING

@@ -1,0 +1,455 @@
+SOURCE: doc/sci_prophet_vs_ecr739.pdf
+PAGE: 1
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+DESIRED
+
+EFF DATE
+
+5-71-87
+
+FINALIZED
+
+SEQUENT ALEC? ot lorie
+
+EFF. DATE
+
+ORIGINATOR
+
+SERV.
+
+cn i
+
+t—
+
+ae)
+
+Se 9-87] INC. BY
+
+—
+
+J
+
+SUPERVISOR
+
+‘= CTRE
+
+CHK. BY
+
+il
+
+Fe
+
+ad fad
+
+ss
+
+ENG.MGR
+
+ee eee
+
+i
+
+MATL. CTRL.
+
+DOC. CTRL
+
+J
+
+Y
+
+Aa
+
+fp
+
+$-6-87
+
+Stax T bata
+
+PRIORITY
+
+TYPE OF CHANGE:
+
+AFFECTING:
+
+RETROFIT
+
+EMERGENCY
+
+OC
+
+RELEASE
+
+[1 cost
+
+NEW PROD
+
+Dd
+
+TO FIELD
+
+URGENT
+
+DESIGN
+
+REDUCTION
+
+INVENTORY
+
+ra
+
+[J otner
+
+O
+
+STANDARD
+
+C]
+
+RECORD
+
+Cc] OTHER
+
+TEST EQuIP
+
+O
+
+MODEL NO. ASEY, NO.
+
+CUR, REV.
+
+NEXT REV. IDESCRIPTION
+
+24140
+
+2-361
+
+—
+
+-_
+
+2-406
+
+Asse:
+
+re
+
++
+
+ly
+
+REASON FOR ics
+
+1 Eyj awh
+
+fev
+
+€
+
+~ 4
+
+oo
+
+4
+
+£
+
+1
+
+ry
+
+Can
+
+2
+
+>
+
+t
+
+Gh ly
+
+fake
+
+fe
+
+Fa
+
+5
+
+ae i ee a
+
+RES e 3s0% OF CHANGES: (IF MORE alee IS REQUIRED, USE SUPPLEMENT SHEET.)
+
+~
+
+“T
+
+a
+
+ul
+
+[ hc
+
+Dw
+
+ee
+
+ACeS
+
+coi
+
+i tha
+
+T 26f
+
+rz)
+
+ia?
+
+al
+
+ig
+
+{2
+
+Jump
+
+fx
+
+U 310 pails
+
+@ To
+
+fan £
+
+Le
+
+act
+
+OLS =
+
+=
+
+ss ant
+
+foes!
+
+me |
+
+PA
+
+6.$K CR-
+
+1).
+
+4/27 VU
+
+|
+
+—
+
+i
+
+30 ¢
+
+(2 a
+
+je.
+
+FP
+
+| je
+
+€ R-0
+
+Ce
+
+fa
+
+d
+
+O +
+
+evo
+
+330
+
+it A
+
+FA
+
+30
+
+rl
+
+aT
+
+¢
+
+O16
+
+asi
+
+fi SS
+
+ke
+
+5
+
+R=
+
+—
+
+NOCUMFNTS AFFECTED
+
+|
+
+<==
+
+a
+
+ECR NO 739
+
+SEQUENTIAL ECR SUPPLEMENT
+
+SHT.
+
+< or &é
+
+|
+
+ENGINEERING BORA
+
+DATA
+
++ *
+
+ae id
+
+A|C|D
+
+ASSY.,
+
+PART
+
+QTY
+
+INC
+
+NO
+
+NO
+
+WAS
+
+IS
+
+DESCRIPTION
+
+£
+
+BY
+
+A
+
+ome 52
+
+R=-0 F4
+
+al
+
+|
+
+6
+
+r
+
+ot
+
+i
+
+Leg (X
+
+Fs
+
+3
+
+é
+
+ve
+
+Anh
+
+ty
+
+x
+
+4
+
+K-
+
+/
+
+|
+
+>
+
+LK
+
+Ma Wy
+
+Ags
+
+,
+
+xK
+
+f
+
+K-—6 12
+
+|
+
+Ye
+
+-j k
+
+v/a VV
+
+ma
+
+AGYs,
+
+4
+
+7
+
+f
+
+hK-0\4
+
+O
+
+|
+
+ISK
+
+tA/
+
+oF,
+
+yt |
+
+=
+
+*A—ADD
+
+*C—CHANGE
+
+*D-DELETE
+
+7OZ,
+
+ECO NO

@@ -1,0 +1,83 @@
+SOURCE: doc/5530.pdf
+PAGE: 1
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+G&S
+
+cE M 5538
+
+3@ CHANNEL SAMPLE & HOLD
+
+Preliminary, January 1987
+
+Description
+
+The CEM 5539 is a 38 channel multiplexed Sample and Hold intended
+
+for generating multiple system control voltages or moderate speed
+
+multiplexed digital audio.
+
+Containing an auto zeroing op amp,
+
+analog multiplexer, 5 bit decoder, and 38 individual Sample and
+
+Holds capable of settling to 12 bits in under 2 uS, the 5530
+
+can sample a voltage from a DAC into any one of its 38 outputs
+
+with less than 2 mV error from -5 to +5 volts.
+
+Operation of the 5530 is straightforward: Bringing INH high puts
+
+all channels in the hold mode and causes the input op amp to auto
+
+zero.
+
+The DAC data and channel address are then changed, and
+
+while the DAC and decoder are settling, input offset is being
+
+nulled out.
+
+Finally, INH is brought low again to sample the
+
+As the auto zeroing
+
+input voltage into the addressed channel.
+
+process requires a minimum of 2 uS, every channel can be
+
+updated with full accuracy in less than 4 us.
+
+Each channel outp
+
+ut can swing to within 2.5 volts of either
+
+supply, allowing
+
+~5 to +5 volt outputs with +/-7.5 volt supplies,
+
+or ~2.5 to +2.5 volt outputs with +/-5 volt supplies.
+
+Ease of
+
+use is further enhanced with outputs which can handle moderate
+
+capacitive loading with little degradation in performance, and
+
+CMOS logic inputs which are TTL compatible regardless of
+
+supplies.
+
+With all hold capacitors on-chip and requiring no external
+
+components, the CEM 5530 makes interface between microprocessor
+
+and voltage controlled devices exceptionally simple and
+
+economical.
+
+—--

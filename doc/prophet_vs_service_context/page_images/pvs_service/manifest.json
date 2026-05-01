@@ -1,0 +1,115 @@
+{
+  "source_pdf": "doc/pvs_service.pdf",
+  "pdf_name": "pvs_service.pdf",
+  "pdf_stem": "pvs_service",
+  "extraction_timestamp": "2026-05-01T10:27:04.425166+00:00",
+  "renderer": "cups_airprint_rastertotiff",
+  "page_count": 13,
+  "pages": [
+    {
+      "page": 1,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_001.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 2,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_002.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 3,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_003.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 4,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_004.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 5,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_005.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 6,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_006.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 7,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_007.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 8,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_008.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 9,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_009.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 10,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_010.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 11,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_011.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 12,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_012.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    },
+    {
+      "page": 13,
+      "image_path": "doc/prophet_vs_service_context/page_images/pvs_service/page_013.png",
+      "width": 3300,
+      "height": 2550,
+      "dpi": 300,
+      "post_render_rotation": 270
+    }
+  ],
+  "notes": "I PDF originali non sono stati modificati. Rendering eseguito localmente; se OCR/testo risultano incerti, usare [NON CHIARO]."
+}

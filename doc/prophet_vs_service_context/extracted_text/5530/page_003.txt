@@ -1,0 +1,105 @@
+SOURCE: doc/5530.pdf
+PAGE: 3
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+CEM 55390
+
+Application Hints
+
+power Supplies
+
+As long as the maximum supply voltage between VDD (pin 43) and
+
+vss (pin 28) is not allowed to exceed 16V, then the positive
+
+supply (VDD) may range from 4.5V to 18V, while the negative
+
+supply (VSS) may be between -4.5V and -l18V.
+
+The values selected
+
+for the supplies affect the maximum input and output voltage
+
+swings before significant distortion:
+
+The maximum positive swing
+
+is 2.5V less than the positive supply, and the maximum negative
+
+swing is 2.5V above the negative supply.
+
+Thus, +8V supplies will
+
+accomodate inputs and outputs between +5V and -5V, while +5V
+
+supplies will allow voltage swings between +2.5V and -2.5V.
+
+Supplies need not be symetrical:
+
+For a 8 to +5V output, +8,
+
+-2.5V to -5V supplies may be used.
+
+The threshold levels of all logic inputs are TTL compatible and
+
+unaffected by either supply.
+
+Outputs
+
+Each channel output can source up to 2mA for any positive supply.
+
+The output sink current capability, however, is dependent on the
+
+difference between the most negative output voltage excursion and
+
+the negative supply, according to the following:
+
+Io“ (mA) = .1(VSS - Vo +1)?
+
+Thus, for an output of Vo = -2.5V with VSS = -5V, the maximum
+
+sink current is 225uA (minimum load of 12K to ground); but for an
+
+output of 6V with VSS = -5V, the maximum sink current rises to
+
+1.6mA.
+
+Since up to 2mA can be sourced by the outputs, the sink
+
+capability for low VSS-Vo differentials may be increased with an
+
+external pull down resistor to preferably a supply more negative
+
+than VSS.
+
+For example, a 19K resistor to -12V will provide 1mA
+
+source and sink capability (2.5K minimum load for +2.5V outputs).
+
+The outputs can handle moderate capacitive loading up to 28pF.
+
+Much greater capacitances (up to luF) may be driven by isolating
+
+the output from the capacitive load with a 1K series resistor.
+
+Normally, long PC board traces from the outputs should be avoided;
+
+if not possible, a 1K isolation resistor physically positioned
+
+Close to the 5538 is recommended.
+
+Basic Operation and Timing
+
+The basic channel update cycle, shown in Figure l, begins with
+
+INHIBIT signal returning to a high level to disable the previous
+
+channel.
+
+The chdnnel address and input voltage (normally from a
+
+DAC) must not be allowed to change until the aperture time,
+
+nominally 196nS, after INHIBIT becomes high. The length of time

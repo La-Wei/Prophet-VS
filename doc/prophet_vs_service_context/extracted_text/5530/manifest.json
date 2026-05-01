@@ -1,0 +1,38 @@
+{
+  "source_pdf": "doc/5530.pdf",
+  "pdf_stem": "5530",
+  "page_count": 4,
+  "generated_at": "2026-05-01T10:27:52.451429+00:00",
+  "native_text_attempted": false,
+  "tesseract_available": true,
+  "pages": [
+    {
+      "page": 1,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/5530/page_001.txt",
+      "method": "ocr",
+      "confidence": "medium",
+      "token_score": 248
+    },
+    {
+      "page": 2,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/5530/page_002.txt",
+      "method": "ocr",
+      "confidence": "low",
+      "token_score": 51
+    },
+    {
+      "page": 3,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/5530/page_003.txt",
+      "method": "ocr",
+      "confidence": "medium",
+      "token_score": 385
+    },
+    {
+      "page": 4,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/5530/page_004.txt",
+      "method": "ocr",
+      "confidence": "medium",
+      "token_score": 262
+    }
+  ]
+}

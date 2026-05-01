@@ -1,0 +1,1423 @@
+SOURCE: doc/pvs_service.pdf
+PAGE: 1
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+_
+
+4
+
+3
+
++
+
+2
+
+1
+
+|
+
+REVISIONS
+
+Je ee oe ee eee ee ee ee ee ee ee ee ee ee ee
+
+a
+
+DESCRIPTION
+
+rere
+
++5Vo
+
+| DATE Jasps
+
+ae
+
+4
+
+2
+
+3
+
+i
+
++5Ve
+
+[e)
+
+TBIO2
+
+I
+
+tax 2k)". view avoce Tem
+
+I
+
++5No
+
+rei02[ 5
+
+ie)
+
+is)
+
+S706
+
+ot
+
+RPI _
+
+S605,
+
+2i
+
+PS SS sss eS eee
+
+2tK
+
+1
+
+Q
+
+MIDI
+
+POINT
+
+WHEEL
+
+ATCHR
+
+ENV
+
+SPLIT
+
+CUTOFF /
+
+.
+
+'
+
+NS
+
+SEL
+
+z.
+
+z.
+
+aka
+
+I
+
+TBIO3
+
+|
+
+I
+
++5Ve
+
+TBIOI
+
+Be_ic[ Te
+
+ZO «Ss
+
+Vee
+
+°
+
+cosl”5
+
+27
+
+NARGTER,
+
+S807
+
+ENV
+
+Kar 3
+
+zd
+
+€ol
+
+28
+
+CHANNEL
+
+RATE
+
+TUNE
+
+Set
+
+DOouBL
+
+AMT.
+
+ie
+
+Ps |
+
+COAT
+
+1+
+
+te
+
+cp2
+
+<.
+
+Zz
+
+Vee
+
+16
+
+29
+
+2 few
+
+Is
+
+12
+
+At
+
+Nes 5}
+
+'S__¢o3] 5
+
+38
+
+SEOS
+
+STO?
+
+hoe,
+
+Oo
+
+DBO
+
+Obr—+
+
+UNIO
+
+4
+
+Apne
+
+BATE
+
+SOURCE
+
+bet
+
+Oc
+
+u
+
+EM
+
+3)
+
+OPTION.
+
+LEVEL
+
+OEPTH
+
+SEL
+
+UNK
+
+RES
+
+Fo
+
+TEIOT
+
+vil
+
+wnt Cimarr
+
+Kos
+
+245
+
+Uy
+
+£08} 5
+
+32
+
+Re 3]
+
+Ura
+
+SEL
+
+7
+
+DBZ
+
+LoD
+
+Jz
+
+DP te a HHO
+
+2
+
+sTas
+
+2 16«K2 Ipc
+
+45) gf
+
+bal
+
+WA
+
+18
+
+ae)
+
+33
+
+il
+
+GUT
+
+Vle7
+
+2}
+
+EN
+
+1 is
+
+cil
+
+LOZ} o
+
+134
+
+Usy
+
+i2]
+
+° 4
+
+of
+
+Fr
+
+Ou cip
+
+PIO3
+
+LATCH
+
+LOOP
+
+aiaat
+
+Stan
+
+FREQ
+
+LT
+
+0514
+
+19
+
++>
+
+03
+
+tf
+
+16
+
+=}
+
+wy
+
+Yo
+
+OP-——Ne
+
+D7
+
+44)
+
+Lo- <I
+
+DI
+
+COURSE,
+
+tB7
+
+ne Stew
+
+DUAL: 7
+
+1SVb
+
+ci20
+
+fe]
+
+HORNS
+
+Rey
+
+FREQ
+
+£ PALRS
+
+Sup
+
+SEGMENT
+
+D2
+
+onvare
+
+REPEAT
+
+EFT
+
+4
+
++SVo
+
+cne
+
+TASPLAY
+
+25
+
+D3
+
+D4
+
+ES
+
+5s
+
+4!
+
+ry
+
+col
+
+| 270 x5;
+
+el=)
+
+26
+
+PROGRAM
+
+5602
+
+S703
+
+Vee. 13,
+
+E46
+
+op nc
+
+OF
+
+wl
+
+CART
+
+SHAPE
+
+VALUE
+
+NAME
+
+WAVE
+
+ooo0o90
+
+Az
+
+25
+
+Dé
+
+ELE
+
+ual
+
+onli
+
+RPIOA |
+
+3
+
+24
+
+ake ai
+
+Pa
+
+2.
+
+INVERTER
+
+aT
+
+iT
+
+i
+
+oT
+
+ED
+
+3
+
+ouTr
+
+Koo 2
+
+ott
+
+2
+
+cus
+
+you] e) UlO9
+
+23
+
+08
+
+Uios
+
+WAVE
+
+S70}
+
+gio
+
+PD yc Od
+
+10
+
+1 27065
+
+| P DaIT
+
+220
+
+ola
+
+iS
+
+j22
+
+HC244,
+
+&
+
+BATE
+
+GUDE
+
+FORM
+
+ENT
+
+4
+
+RIO}
+
+COM.
+
+O15,
+
+245
+
+7
+
+Va
+
+5
+
+<.
+
+29 é BKLT EN
+
+Seo
+
+16 CDI) 6
+
+j2t
+
+if
+
+ay, Nel
+
+i
+
+eo
+
+ey! °
+
+5 3! AA fs
+
+Fe
+
+free
+
+17
+
+eo
+
+s702
+
+2N3704!
+
+Nos
+
+UJ
+
+oil
+
+rae |
+
+STEREO
+
+osx
+
+¢4t6d7
+
+[is
+
+0,4 ALARA t
+
+Ga
+
+DIS | o
+
+19
+
+oe
+
+Bel
+
+3
+
+UNISON | OPTI
+
+SEL
+
+ag
+
+33:
+
+, LED 2
+
+GS GND
+
+ie
+
+OT
+
+Al
+
+Liou
+
+Os
+
+14
+
+aAg | J |.
+
+io
+
+O|”
+
+Dia
+
+6G
+
+EN EW
+
+aA
+
++SVo
+
++h
+
+cia
+
+(810s)
+
+ct
+
+tOND
+
+6
+
+(re06)
+
+pilex)
+
+RFIOZ
+
++SVo
+
+O07
+
+DIOS
+
+iINWN4 17
+
+7075)
+
+py
+
+a
+
+«
+
+s
+
+‘
+
+a
+
+a
+
+iy
+
+ny
+
+ta
+
+“
+
+Al
+
+Ver
+
+ts
+
+CAL
+
+OPT
+
+°°
+
+HG
+
+—_s ayse—t
+
+ol
+
+il
+
+Wa
+
+Az.
+
+i6.
+
+£A2) 5
+
+AS
+
++0
+
+4
+
+1a
+
+"1
+
+ra
+
+ie]
+
+Bho]
+
+DOVEAL
+
+AS
+
+ui
+
+17,18,19,2)
+
+Ye
+
+Xs
+
+XZ
+
+YZ
+
+Yo
+
+'g
+
+4
+
+AG
+
+5
+
+£431 G
+
+13
+
+Kos _ 4! Vi0e
+
+REVIEW
+
+UIO4
+
+LAS} OG
+
+ce
+
+LIEZ
+
+He2238
+
+Ros
+
+ix]
+
+TALIS
+
+12
+
+3
+
+Na
+
+a
+
+EDIT WAVE FORM
+
+1
+
+HC
+
+PIGS
+
+ol SAAB up
+
+ABC
+
+Ar
+
+imi
+
+244
+
+ZO
+
+1
+
+al
+
+fos__3
+
+ore
+
+mer
+
+ty ache
+
+4
+
+2
+
+NC 5
+
+o—-4
+
+STORE
+
+Ha
+
+SWIN,
+
+ie
+
+Git
+
+14
+
+is”
+
+2
+
+TART SE!
+
+Sain
+
+BR
+
+h—— NC
+
+PC2400-8
+
+PICS
+
+36
+
+AVA
+
+50 HES
+
+EN
+
+DRESS
+
+a
+
++8Vo
+
+TART OE
+
+13
+
+A7
+
+At
+
+AB
+
+46
+
+—_————
+
+5
+
+>RI03
+
+ira
+
+é
+
+CART WE
+
+*SVo
+
+ued
+
+1 NOb + PITCH
+
+270
+
++REF VOL
+
+7
+
+Cur
+
+49
+
+Sate
+
+cus
+
+ae]
+
+ASSEMELY 1 - PIO!
+
+a
+
+7BL05
+
+isB
+
+AS
+
+44 ei]
+
+|
+
+p—K }
+
+1K
+
+ry
+
+a)
+
+al
+
++ jclo2
+
++1 ¢
+
+103,
+
+It
+
+o102
+
+2316
+
+>
+
+At
+
+Ae
+
+I
+
+Z.
+
+INZA
+
+1% ey,
+
+Noes]
+
+CER fis
+
+TBIO2
+
+Vec
+
+as
+
+47
+
+j PITCH
+
+Tn
+
+on
+
+ey Sar ¥
+
+RIO?
+
+AIS
+
+‘7
+
+CANS) Fa)
+
+PITCH WHEEL.
+
+Bel we
+
+lid
+
+D3
+
+MN—— 0
+
+ICHORUS RIGHT
+
+ak
+
+45
+
+|
+
+10OK
+
+2¢€
+
+NOD WHEEL
+
+TAL
+
+ROS
+
+16
+
+u
+
+AT
+
+<3
+
+at
+
+27h
+
+13 D5 a)
+
+irs
+
+HO
+
+CHORUS LEFT
+
+Cas!
+
+MOD
+
+Fe ker
+
+JOY STIOA X
+
+22
+
+RIOT
+
+AS
+
+41 UI08
+
+4
+
+|
+
+TOALOS
+
+|
+
+SOY STICKY.
+
+a
+
+2
+
+CART
+
+1
+
+HC
+
+Cy SAISI OG
+
+ay
+
+4q—N
+
+Uns
+
+C7,
+
+u
+
+1a
+
+cA
+
+12
+
+Aw
+
+LOOK |
+
+bd
+
+dos keg CIF
+
+DATA ENTAY
+
+na
+
+LATCH
+
+AZ
+
+| 244
+
+—
+
+VOLUME
+
+AILOBO}|
+
+AT
+
+cA
+
+All
+
+37
+
+Sys
+
+ae ¢
+
+1 ° ARP
+
+ate
+
+—--—-——
+
+BALANCE
+
+ING
+
+ihe
+
+uior
+
+SND
+
+AB! 5
+
+Teo)
+
+RIGS
+
+PRESGUPRE
+
+Sin
+
+AN
+
+—
+
+a
+
+sel”
+
+OK
+
+Pie
+
+PIO3
+
+PC2400-5
+
+S00 fiz.
+
+thd
+
+PROT |
+
+PC2400-7 PINOUTS
+
+PC2400-& PINOUTS
+
+U Jo1sticK
+
+AK AD
+
+9 0
+
+n PROT
+
+PCB
+
+Riodg>
+
+24
+
+TeIos:
+
+te
+
+i-
+
+eOIT LED
+
+a~
+
+STORE
+
+TeS5Ot
+
+PIOZ
+
+>
+
+ADC WA
+
+2a¢l4
+
+22) aus
+
+exe
+
+YE GROUP
+
+oe
+
+cto
+
+ol oraRT
+
+2-
+
+ENTER
+
+2-
+
+EOIT
+
+Q-
+
+YZ. GROUP
+
+tx
+
+RO2S
+
+cis
+
+-REF GND
+
+3-
+
+WAVE
+
+3-
+
+NAME
+
+n-
+
+SPLUT LED
+
+3051 N. FIRST ST.
+
+how.
+
+ole
+
+EQUENTIAL
+
+4-
+
+COURSE FREG
+
+a-
+
+REVIEW LED
+
+ae
+
+SPUT
+
+{
+
+ye
+
+CACHED NC
+
+SAN JOSE,CA. 95134
+
+s-
+
+OSC SEL
+
+s-
+
+REVIEW
+
+ie-
+
+Link
+
+o1e——
+
+Vy He'd
+
+1OK
+
+™£ SCHEMATIC. POO
+
+e-
+
+FINE FREG
+
+e-
+
+STORE LED
+
+i3-
+
+DOUBLE LED
+
+® 4. THIS RESISTOR VALUE BECOMES VALIO WHEN
+
+T-
+
+CUTOFF
+
+a
+
++SVo
+
+14> DOVELE
+
+O/RG-NE
+
+STCCK RUNS OUT OF THE 10K POT.
+
+LEFT FRONT PANEL
+
+apreces
+
+an
+
+RES
+
+3. CAPACITANCE IN NIGAO CARADS.
+
+WN cor dee
+
+* 2106
+
+9-
+
+ENV AMT
+
+O15
+
+2 ALL REE TORS
+
+VAW. ON
+
+IZ
+
+DRAWING
+
+----—-—-—~-
+
+l. RESISTANCE IN: ORMS
+
+D
+
+SB2400-15.78
+
+| ‘
+
+NOTES. UNLESS OTHERWISE SPECIFIED:
+
+Fes
+
+hard SS
+
+scate: WA |
+
+SHEET | OF
+
+Pe crees ron Canteras Reaeeriptans
+
+*
+
+4-3

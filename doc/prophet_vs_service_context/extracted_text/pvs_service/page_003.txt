@@ -1,0 +1,1241 @@
+SOURCE: doc/pvs_service.pdf
+PAGE: 3
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+¥
+
+1
+
+REVISIONS
+
+DESCRIPTION
+
+[APP
+
+CG
+
+Y301
+
+C322
+
+BATA BUS
+
+OMEL
+
+C34)
+
+2OPF
+
+~ HEE ma
+
+en a ee ee ee
+
+o_o oe — ee ee ee ee ee ee
+
+NE
+
+—_>
+
++ND
+
+fat
+
+al
+
++ Fy
+
+c3z6
+
+I
+
+MY oe a20
+
+R28,
+
+iH
+
+rth
+
+LS ROM
+
+a MS ROM
+
+323 9LS RAM
+
+MS RAM
+
+324 PLS RAM “4°>
+
+MS RAM +4
+
+I
+
+J3
+
+R33}.
+
+tov
+
+Et
+
+NON-VOLATILE.| ae
+
+ai
+
+NON-VOLATILE,
+
+im
+
+24
+
+i
+
+Land
+
+“ut
+
+R332
+
+27e
+
+P305
+
+32K
+
+a
+
+BK
+
+8A
+
+Vee.
+
+y 24
+
+Veo
+
+pall MIDI OUT
+
+I
+
+31 0a
+
+(3)
+
+Vep
+
+Ves.
+
+Al
+
+Yee Vee. [y
+
+bs,
+
+Al
+
+iH
+
+Jo.
+
+DS
+
+aQz3o2
+
+SVD
+
+BR
+
+bol
+
+bt
+
+a 9
+
+bY
+
+io__Di
+
+“pl
+
+R327
+
+#END
+
+GAC
+
+BI
+
+Aber pi (4?
+
+(aE)
+
+Dil
+
+a2]
+
+i
+
+Al
+
+a |
+
+ri 2N425%
+
+150
+
+aa
+
+is
+
+by
+
+2 7
+
+13 Dily
+
+1/4
+
+1 lend
+
+BERR
+
+pal?
+
+3302s 2
+
+ls Di)
+
+[a4
+
+is _DY
+
+(mz
+
+im bal
+
+a”
+
+U326
+
+HCOO
+
+53
+
+nit
+
+34 D3 Bas
+
+It
+
+i D5
+
+43. 6
+
+iS
+
+bid
+
+dG
+
+sel
+
+W7
+
+by
+
+NZ
+
+[Ads
+
+C340
+
+pat!
+
+At
+
+5 pa pAC_S
+
+be
+
+AT_ 4
+
+18
+
+1 PS |
+
+#IND
+
+= ROPF
+
+te ve
+
+(al
+
+Ae 3
+
+U332
+
+f U327
+
+i7
+
++ND
+
+U3Il
+
+BS]
+
+3
+
+ne 3|
+
+ip 3B
+
+AT &
+
+elle 4
+
+Olle P-4
+
+R327
+
+150
+
+pole?
+
+A:
+
+37 De FAI 25]
+
+033)
+
+328
+
+U330
+
+a 329
+
+in
+
+AL_2
+
+MIDI
+
+OUT/
+
+“—
+
+38 7 [Aes
+
+27256
+
+AI 24
+
+27256
+
+OF
+
+=
+
+THA
+
+R334
+
+b7
+
+AW 24
+
+6264
+
+AN_21
+
+6264
+
+ei
+
+eee
+
+Qzol
+
+oK
+
+patel
+
+!
+
+pa ft
+
+LPG,
+
+LPS.
+
+We
+
+1923)
+
+WE)
+
+2N42:
+
+R323,
+
+1 2
+
+P2305
+
+AB
+
+eo
+
++8up
+
+40326
+
+Biknz +17
+
+bg
+
+A—§ 15
+
+oF
+
+AB 2!
+
+es
+
+AL
+
+150
+
+K—
+
+pal 22
+
+Z
+
+Pio;
+
+ne
+
+AIA 26:
+
+Sag
+
+GND.
+
+rm
+
+GND
+
+B22,
+
+1,
+
+1!
+
+ANS 27!
+
+pWE
+
+CSIb
+
+Bowe
+
+ci
+
+R333
+
+il}
+
+2
+
+04
+
+Bu
+
+Abu
+
+ae 21
+
+AG
+
+ZA
+
+etal
+
+icy
+
+vil fale Ace
+
+Diz
+
+te o-——_
+
+ice
+
+4 +N
+
+pik:
+
+ivr
+
+3
+
+‘4
+
+np
+
+14
+
+S_j4
+
+QMHZ 17)
+
+pial2Z@
+
+Ab
+
+DiS
+
+N
+
+40326
+
+4 ZEseT
+
+JHC32
+
+ajH
+
+P302.
+
+pul22.
+
+Ab
+
+a
+
+2ff
+
+Ai
+
+tAND
+
+pis 24
+
+Abe
+
+DIS
+
+LDS
+
+40324
+
+ACS 42
+
+C335
+
+ne-Yae
+
+F Kvsed
+
+44,
+
+6336 I
+
+Mitt 546
+
+UART
+
+e
+
+rae pb?
+
+Gantt cE 302 +5VD.
+
+4U226
+
+V4 USI0
+
+P302
+
+AS 1547
+
+B&B MHZ
+
+9|HCOO
+
+Jo
+
+REY.
+
+29 PES 45
+
+13
+
+te ge
+
+‘8
+
+UbSE:
+
+opsbZ
+
++Sv0.
+
+‘ab323
+
+bya
+
+AL
+
+Qqj2
+
+EMHZ
+
+Tesb&
+
++5VD
+
+iS
+
+7)
+
+W322.
+
+4 ZUat?
+
+AS _t Sai & Nigaey
+
+Bi
+
+jf S00 KHz
+
+Sutin
+
+=
+
+5 |HCOz)*
+
+pil
+
+p20
+
+U325
+
+ast
+
+14
+
+i cao
+
+US
+
+i
+
+KO
+
+AIO. 33
+
+333
+
+He
+
+ae
+
+Au
+
+map
+
+4
+
+4
+
+’U3B23
+
+Hed
+
+iC1 UB3
+
+Alt
+
+At
+
+b3)
+
+4020
+
+a7}
+
+NOARIAI
+
+Agro
+
+YO
+
+BU304
+
+a2 Xl
+
+36
+
+CSB
+
+NCSIAIS
+
+AlQ 2
+
+at}
+
+1e3) HE
+
+NAILS 35]
+
+Gal!>
+
+NCAA
+
+AS 3)
+
+‘AIS 3],
+
+W
+
+Be
+
+YaUBilo
+
+HC32.
+
+WRSEL
+
+DS
+
+rS
+
+a4f@e—____}
+
+a
+
+ENI
+
+OCS,
+
+nc AZo
+
+U3IS ¥3
+
+ut
+
+te)
+
+U323
+
+6BB50 Pe
+
+any
+
+ne-2i Azi
+
+a5}
+
+4
+
+$D
+
+a
+
+eS
+
+nc2h aze
+
+Ale ¢].,,
+
+5
+
+io
+
++H
+
++A
+
+6334 5.
+
+57
+
+Gx
+
+|
+
+ncaa,
+
+GTA
+
+Ye
+
+YaU3Vo
+
+melee
+
+902s
+
+Q
+
+AT
+
+—}—
+
+ae
+
+7
+
+tio
+
+PROS
+
+ES
+
+P30S
+
+Txparalé
+
+Gs]
+
+ra
+
+af)
+
+GIA
+
+10}
+
+la
+
+al
+
+mee
+
+RST GND
+
+age
+
+} GTA
+
+15 [aa 82
+
+4
+
+-—B> LEB!
+
+wp GER 527
+
+pan
+
+a9 BE
+
+———62B
+
+aly
+
+| WAVES jy
+
+Gte
+
+My
+
+13
+
+pe
+
+WIN
+
+-_—*
+
+3 GB,
+
+att
+
+13 Ene S
+
+28
+
+R324
+
+P3205
+
+Al
+
+at
+
+12
+
+Soe ea
+
+{p> RYE
+
+MZ
+
+aoe
+
+ty
+
+u39 3
+
+1% Seat? » nn
+
+‘aia 1 3
+
+12
+
+P22 so aan
+
+us\e 3
+
+12 CHP
+
+7 pone ri =!
+
+HIDE ¥4
+
+if
+
+[ROPE 4
+
+ul
+
++>3Z0ED
+
+HOSE 4
+
+Ht ng
+
+tSye
+
++SND
+
+All
+
+Nae] 39
+
+15
+
+10
+
+x5
+
+w2i
+
+5
+
+ony,
+
+c325
+
+aio
+
+a
+
+CHP RST Loeelf
+
+alt
+
+are
+
+fell
+
+R328
+
+AyafAl
+
+Al 3 ie
+
+Yo
+
+2N¢
+
+23 OE
+
+416
+
+Ye
+
+oF ne
+
+MID IN
+
+0317
+
+41K,
+
++5¥b
+
+ol
+
+5 So
+
+7
+
+7
+
+hiss
+
+Y7|
+
+waa
+
+FAD
+
+auf42
+
+AG Se
+
+15 OG
+
+25]
+
+TPLS
+
+ie
+
+C337
+
+ne
+
+AY
+
+awi4s
+
+4D
+
++50
+
+45ND
+
+u3I2
+
+A3z9
+
+HO Bog
+
+Es
+
+A
+
+dec TP
+
+al
+
+2
+
++5¥>
+
+Auk
+
+Crs
+
+Ohi
+
+ADT >
+
+|| fac Ae
+
+FCZ|
+
+ISA\
+
+ee:
+
+psie} J
+
+&55
+
+Fes Z
+
+le alco s
+
+SIHCID
+
+(4
+
+3
+
+P202
+
+P0900
+
+re
+
+tPLA
+
+C327
+
++ND
+
+335° NC
+
+Sif eas"
+
+waarcep
+
+1
+
+Nene,
+
+a
+
+Os
+
+EBD
+
+RESET
+
+p2i
+
+34 C14
+
+KM ap] nc
+
+‘a U223
+
+a
+
+S00 EME
+
+oi
+
+Gib
+
+La
+
+. U3i3
+
+fied
+
+VPA
+
+~ IF
+
+VoUSzz
+
+U3
+
+wa
+
+LM,
+
+STACK,
+
+WMA
+
+[eas
+
+a
+
+(i 7
+
+12) __s3i ep
+
+Hc yaa
+
+|
+
+Et
+
+GN’
+
+[920 500
+
+ar
+
+2
+
+2 (2;
+
+‘DO NOT SCALE DRAWING
+
+SEQUENTIAL
+
+3051 N. FIAST ST.
+
+ANT fE>-
+
+ie 153
+
+uciob-!2
+
+tt
+
+D
+
+—Efees
+
+GRUNTS iC
+
+SAN JOSE.CA. 95134
+
+res
+
+{D>
+
+=
+
+HCI53
+
+APPROVALS
+
+D.
+
+Alas
+
+ENZ CHO
+
+TE SGUEMATIC,
+
+PCE.
+
+Peed — re
+
+gee
+
+DIGITAL, 7400
+
+INT
+
+|
+
+3. CAPACITANCE IN MICRO FARADS
+
+PROCESSOR
+
+2. ALL REASTORS AW
+
+Fo.
+
+ELEC ENGR
+
+(G)
+
+| RESISTANCE IN ORMS
+
+SIZE penne NO.
+
+SO2400- 3
+
+|
+
+NOTE?. UNLESS OTHEMINISE SPECIFIED:
+
+‘SCALE:
+
+]
+
+J seer | oF
+
+‘Reon trom Cattoenen Eaeregtagnce
+
+2
+
+¥-

@@ -1,0 +1,31 @@
+{
+  "source_pdf": "doc/sci_prophet_vs_ecr738.pdf",
+  "pdf_stem": "sci_prophet_vs_ecr738",
+  "page_count": 3,
+  "generated_at": "2026-05-01T10:27:16.188276+00:00",
+  "native_text_attempted": false,
+  "tesseract_available": true,
+  "pages": [
+    {
+      "page": 1,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/sci_prophet_vs_ecr738/page_001.txt",
+      "method": "ocr",
+      "confidence": "medium",
+      "token_score": 190
+    },
+    {
+      "page": 2,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/sci_prophet_vs_ecr738/page_002.txt",
+      "method": "ocr",
+      "confidence": "medium",
+      "token_score": 344
+    },
+    {
+      "page": 3,
+      "text_path": "doc/prophet_vs_service_context/extracted_text/sci_prophet_vs_ecr738/page_003.txt",
+      "method": "ocr",
+      "confidence": "low",
+      "token_score": 28
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+SOURCE: doc/5508.pdf
+PAGE: 2
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+PD 508
+
+SPECIFICATIONS
+
+APPLICATION HINTS
+
+Vpp = +8V
+
+Vog = -5V
+
+T, = +20°C
+
+Power Supplies
+
+Parameter
+
+Min.
+
+Typical
+
+Max
+
+Units
+
+As long as the maximum supply voltage
+
+between Vpp (pin 16) and V,5 (pin 7) is
+
+Tacg, Acquisition Time!
+
+2
+
+not allowed to exceed 16V, then the posi-
+
+Acquisition Error
+
+0.01
+
+0.03
+
+tive supply (Vpp) may be any voltage from
+
+tape, Aperture Time?
+
+2.5
+
++4.5V to +12.5V, while the negative supply
+
+Aperture Jitter
+
+250
+
+600
+
+may range from -2.5V to -10.5V. The values
+
+selected for the supplies determine the
+
+tus, Address Set-up Time
+
+100
+
+ns
+
+maximum input and output voltage excur-
+
+sions before significant gain errors occur
+
+tay, Address Hold Time
+
+300
+
+ns
+
+200
+
+(distortion): The input/outputs may swing
+
+try, Inhibit Low Time
+
+ns
+
+to within 2.0 volts of the positive supply,
+
+and within 2.5 volts of the negative supply.
+
+Input/Output Voltage Range
+
+Veg + 2.5
+
+Vpp - 2.0
+
+Thus, + 8V supplies will accommodate
+
+Linearity
+
+0.05
+
+inputs and outputs between +5V and -5V,
+
+Input Bias Current
+
+while + 5V supplies will allow swings up to
+
+Input Capacitance
+
+pF
+
++ 2.5 volts. Supplies need not be symmetri-
+
+cal: For a 0 to +5V output, +8 and -3 to -6V
+
+Input Feedthrough
+
+mv
+
+supplies maybe used, while a 0 to +10V
+
+output will require a + 12,-3V supply.
+
+Input/Output Offset3
+
++10
+
+mV
+
+mv
+
+Hold Step
+
+The threshold levels of all logic inputs are
+
+Hold Droop
+
+0.2
+
+mvV/ms
+
+TTL compatible and unaffected by either
+
+supply.
+
+Channel Crosstalk
+
+-60
+
+dB
+
+Digital Noise Leakage!
+
+mV RMS
+
+Basic Operation and Timing
+
+The PD 508 operates in essentially two
+
+Output Slew Rate®
+
+V/us
+
+Output Sourcing Impedance
+
+200
+
+ohm
+
+basic modes of operation: one for updat-
+
+ing (refreshing) the 8 Sample & Holds,
+
+Output Sinking Impedance’
+
+500
+
+ohm
+
+and the other for switching in or out the
+
+Output Source Drive
+
+50K ohm resistor in each channel output.
+
+Output Sink Drive’
+
+2.4
+
+The timing for both modes are shown in
+
+Figure 1.
+
+0.8
+
+Logic Low Level
+
+Logic High Level
+
+2.4
+
+The basic update cycle begins with the in-
+
+Logic Input Current
+
+put voltage (normally from a DAC) and the
+
+three address inputs changing to their new
+
+Max Logic Swings
+
+Vss
+
+Vop
+
+value. The order in which these occur does
+
+Supply Voltage, Vpn - Vss
+
+16
+
+not matter, as long as the voltage has settled
+
+Supply Current
+
+to its proper value (at least most of the way)
+
+and the address inputs are stable at least t,;
+
+prior to the INHIBIT signal falling low. The
+
+Notes:
+
+1) Determined by an internal timer.
+
+falling edge of INHIBIT then begins the
+
+2) Includes internally generated sample command time and delay time from INHIBIT falling edge.
+
+sampling sequence: Firstly, the address is
+
+3) While channel is sampling. Vo = OV.
+
+4) Between adjacent channels. Crosstalk is lower between non-adjacent channels.
+
+latched into the 3 bit address latch; after a
+
+5) Digital noise consists mostly of narrow spikes coincident with input logic level transitions.
+
+short delay (approx. 200nS) to allow for
+
+6) No load capacitance.
+
+decoder settling, the internal timer (one
+
+D Vos -Vo = 5V.
+
+shot) triggers and closes the selected

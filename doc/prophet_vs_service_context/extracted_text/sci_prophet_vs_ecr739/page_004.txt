@@ -1,0 +1,549 @@
+SOURCE: doc/sci_prophet_vs_ecr739.pdf
+PAGE: 4
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+ees
+
+¥.
+
+PRESSURE CjRCUIT
+
+HEY
+
++5y>
+
+ty
+
+R321
+
+OFFSET
+
+REOT
+
+R3O
+
+a | P35
+
+Way
+
+—_—_—— —:
+
+vt
+
+csi?
+
+1ow
+
+34 p202
+
+—
+
+~\
+
+“i=;
+
+c308
+
+R309
+
+N34
+
+PRESSURE +
+
+RBG
+
+A7K
+
+E:
+
+par
+
+25
+
+HCI
+
+G_.
+
+poe
+
+40 SEER.
+
+Va L PRESSURE SENSOR 4
+
+R320
+
+Daz
+
+| 7
+
+p{c> RESET
+
++¥ney
+
+Ze NaI
+
+OK
+
+c301,
+
+R305
+
+Bis
+
+{
+
+ZK
+
+S470K
+
+Pl
+
+R304
+
+sae .
+
+TRSOA
+
+Cg
+
+am
+
+il
+
+st
+
+oe
+
++]
+
++H2V
+
+D307
+
+W2U355
+
+Yay
+
+et
+
+oe ee
+
+cio
+
+IND4
+
+[|
+
+WBZ
+
+YUZIO
+
+vl
+
+FRONT Viow
+
+U204
+
+D310
+
+D313
+
+2ZH
+
+R302 [cs0Zb uox
+
+InB4
+
++t
+
+InaSOZ,
+
+TR3O1
+
+p308
+
+at
+
+[3
+
+Inti4
+
+o4tl
+
+C305 4!
+
+a6t
+
++5y
+
+aes =
+
+a
+
+-BV
+
+0302
+
+:
+
+$
+
+x
+
+aa
+
+——— HARBWARE oN CHASSIS,
+
+-_--———
+
+MP5OL
+
+i717 21.26 +Svo
+
+Pi
+
+XMFR 1P301
+
+p30! eet esi
+
+pt
+
+sil gs , Pe
+
+132% +12v
+
+1
+
+GA
+
+It
+
+si
+
+Fl
+
+4100
+
+Te 2 TANT
+
+| VETO 2.54
+
+qurcol
+
+lev
+
+h
+
+st.
+
+ie Dan:
+
+gos
+
+=.
+
+ll
+
+[Tos §
+
+ka ¢tL—_§_
+
+Loony 5
+
+18,59
+
+|!
+
+IN4D02 x4
+
+Bee" IZ ID.\e PEND]!
+
+_
+
+12.5,69,10 AGND
+
+i)
+
+| 22WCT
+
+D303)
+
+7
+
+)22OmA
+
+D304
+
+1
+
+i
+
+Ts
+
+a
+
+Uw Fait mes
+
+G
+
+PTB H2Y
+
+Es
+
+cuz
+
+4+5yp
+
+“1
+
+D306] +l iocD
+
+ai
+
+e
+
+men
+
+Le
+
+_
+
+—-—-—.——J
+
+Sv
+
+¥t
+
+c30OT
+
+I? 2 TANT
+
+45ND
+
+Zt
+
+35v
+
+ooo
+
+a4. 445vD
+
+LE
+
+BN sy
+
+IG
+
+am TAIZ a3
+
+L334 -12N
+
++p
+
+less
+
+ail
+
+722 TANT
+
+OL
+
+U320
+
+TOS LEFT CHORUGONH ==
+
+FRONT VIEW
+
+(24
+
+4-320 PIGHT CHORUS ON
+
+T
+
+HC174
+
+R330
+
+100
+
+ZN3904 |
+
+TBa5
+
+Jor
+
+ae}Z
+
+Q303,
+
+Tbi2
+
+a
+
+TIA,
+
+oil
+
+Pane
+
+21 GUT PUT EN
+
++329 BKLT EN
+
+14
+
+aal%
+
++5vp
+
+123
+
+st
+
+os”
+
+as}!'2_fe>urser
+
+be
+
+RES
+
+eee
+
+*
+
+wUs0B,
+
+iO”
+
+pawe RBZ
+
+1oKW
+
+YI
+
+WASO3, 5
+
+R315
+
+MO
+
+S301
+
+won
+
+o_o
+
+Cur
+
+S
+
+ONS
+
+RELEASE
+
+FOOT SWITCH
+
+DETAIL. A
+
+BETAIL B
+
+eee in |
+
+oa
+
+oF
+
+is!
+
+& R315
+
+220 VAL
+
+CG
+
+et
+
+AUXILIARY
+
+NO VAC
+
+a
+
+P303
+
+ea |
+
+FOOTSWITCH
+
+wad
+
+E i
+
+aa]
+
++*5Vp
+
+p245034
+
+P3002.
+
+Joc
+
+34 PROT
+
+(1)
+
+Vis
+
+1é
+
+REG
+
+Bay
+
+OOK
+
+{eae
+
+eu
+
+,
+
+Ene
+
+a ees
+
+ard
+
+SCHEMATIC,
+
+PCB
+
+—_—
+
+a E—
+
+SPARES:
+
+VIGITAL, Z400
+
+4 U305
+
+4 U305
+
+KEYBOARD AND POWER SUPPLY
+
+Se |
+
+D |
+
+4ADZ400-%3
+
+lA
+
+Pipe Fs oe mack RAXO
+
+DO NOT scace | SHEET ZoOF Z

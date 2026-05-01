@@ -1,0 +1,559 @@
+SOURCE: doc/pvs_service.pdf
+PAGE: 13
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+—dactisintins
+
+:
+
+~
+
+3
+
+y
+
+REVISIONS
+
+DESCRIPTION
+
+Ka
+
+DATE _TAFPROV
+
+DATA BUS
+
+(pe ee ee ee ee ee ee ee
+
+Sv
+
+qeeeeese=™
+
+el
+
+Sv
+
+29
+
+e_—_Abos
+
+i
+
+bg for
+
+i
+
+ié
+
+02
+
+am
+
+14
+
+03
+
+i
+
+a
+
+28
+
+2
+
+e¢—__Alos
+
+vee
+
+vo
+
+git Ase
+
+isqq_—__cs
+
+Dt
+
+ft
+
+fe,
+
+23
+
+a¢
+
+cé
+
+D2
+
+ce
+
+C7
+
+TO 2
+
+va
+
+so
+
+€
+
+a
+
+vo af'S
+
+3 1
+
+ve
+
+a
+
+Cit
+
+22
+
+eq —_Aca
+
+is]
+
+Aa
+
+oO 4
+
+le
+
+4
+
+1é
+
+Cz
+
+Al
+
+Al
+
+——_as
+
+TG
+
+2agp—_ Jo
+
+Ae
+
+Al
+
+ro 51 —___fJos
+
+Ae
+
+_—————Jar
+
+5 (4)
+
+stt____] m3
+
+26
+
+DIG
+
+Az
+
+Woe
+
+1
+
+cra
+
+cis
+
+AZ
+
+a3b————Jae
+
+T/0
+
+3¢
+
+AS
+
+AS
+
+170 72
+
+= 1
+
+oT
+
+Ad
+
+Y—-———ia3
+
+vo
+
+12
+
+aS
+
+2
+
+S
+
+34
+
+q—_-Aze
+
+Slag
+
++5
+
+-——Sjaa
+
++SV
+
+AS
+
+LS
+
+AS
+
+MS
+
+32 fiz
+
+Ae
+
+as
+
+MEMORY
+
+AS
+
+AS
+
+MEMORY
+
+o4
+
+AS
+
+AG
+
+i
+
+ae
+
+os
+
+AT
+
+At
+
+*
+
+AS
+
+Nc
+
+26
+
+Nc
+
+AB
+
+ae
+
+NC
+
+26
+
+NC
+
+——25 as
+
+re
+
+25
+
+Ag
+
+24)
+
+Ad
+
+24)
+
+sie AN Al
+
+Atay JAF
+
+**& D=——__
+
+27
+
+Ae
+
+ad
+
+* ® p22 —__
+
+2x4"
+
+2t
+
+Are
+
+rAl
+
+AI
+
+AZ
+
+ait
+
+23
+
+EEb22 _
+
+A
+
+23)
+
+=—122
+
+oEp-——
+
+aie
+
+Sars
+
+Ala
+
+AGL
+
+21¢;—4.
+
+als
+
+ANZ
+
+TEES
+
+AIR
+
+cEpes
+
+wep —*4#E,
+
+AIS
+
+AE
+
+Mss
+
+vss
+
+I3¢--—-——J
+
+9+.
+
+AT
+
+42
+
+i
+
+}*
+
+Sob
+
+AUS
+
+ADDRESS BUS
+
++S¥
+
+*SV
+
+*BV
+
+W
+
+‘
+
+23
+
+Au
+
+‘
+
+aT
+
+2K
+
+3
+
+4
+
+CaRT ce
+
+ax Fx
+
+at
+
+CaRn= te
+
+19
+
+33
+
+35
+
+AT WE
+
+fen
+
+pis!
+
+&
+
+Po
+
+—
+
+aT
+
+i
+
+[noe |
+
+SWITCH IS NOT IN~
+
+RAM
+
+ROM
+
+STALLED ON ROM
+
+ESS OTLERWISE SPECIFIED:
+
+3051 N. FIRST ST.
+
+CARTRIDGE
+
+CARTRIDGE
+
+CARTRIOGES.
+
+ANCES.
+
+1 NOT SCALE DRAWING SEQUENTIAL
+
+MCCEL 235-4x
+
+MOCEL Jal - xx
+
+means
+
+CACURS nc
+
+SAN JOSE,CA. 95134
+
+wx?
+
+ay &S
+
+APPROVALS
+
+DATE
+
+—_—s,
+
+MATERIAL,
+
+TLE
+
+HITACHI
+
+SEEQ
+
+264
+
+in fff.
+
+ESS
+
+MODEL
+
+240 / 241
+
+58064
+
+52625
+
+CHECKED
+
+MEMORY
+
+CARTRIDGE
+
+x PIN
+
+1
+
+NC
+
+cc
+
+Vee
+
+ELEC ENGR
+
+FINISH
+
+NO.
+
+REV
+
+* * PIN 27
+
+WE
+
+Wwe
+
+PGM -
+
+MECH ENGR
+
+50240 / 241
+
+NEXT ASSY
+
+USED ON
+
+SIZE | Of
+
+|
+
+|
+
+MFG ENGA
+
+APPLICATION
+
+SCALE: 1v/A |
+
+| sHeet 1 OF 1
+
+a-cre0s hom Cantons Reprogrepnce
+
+4
+
+3
+
+yw
+
+| u-20
+
+4
+
+\

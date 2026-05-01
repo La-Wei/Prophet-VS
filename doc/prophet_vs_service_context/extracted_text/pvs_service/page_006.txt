@@ -1,0 +1,1051 @@
+SOURCE: doc/pvs_service.pdf
+PAGE: 6
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+1
+
+.
+
++f2V
+
+REVISIONS
+
+AIO!
+
+——
+
+RE
+
+DESCRIPTION
+
+OVD
+
+A
+
+z{ ecoue 544
+
++!2V
+
+dt lie
+
+cane
+
+C2
+
+me
+
+V+
+
+a
+
+2
+
+Pa
+
+ag
+
+is
+
+258 1s
+
+=
+
+a
+
+=
+
+or U454 ai
+
+Di
+
+~VREF:
+
+O82
+
+DIZ.
+
+HO\V74
+
+ted
+
+Von.
+
+NCAT
+
+MCF la
+
+aa
+
+34
+
+Ds
+
+FAI
+
+OUT @
+
+VCR Z
+
+IK
+
+ii
+
+ox}
+
+awit
+
+D7
+
+1K
+
+our 1 3
+
+via
+
+1%
+
+1%
+
+cAloS
+
+our aj
+
+veAs
+
+one
+
+S57
+
+iva]
+
+aa
+
+Sloe
+
+VCAG
+
+~12V
+
+2e
+
+as{Z
+
+BS
+
+our gf] —___VoA4 Ta
+
+VCAS
+
+OuT4
+
+PRESSURE SENSOR
+
++l2v
+
++VREF eas ad
+
+a
+
+sn ha ag
+
++12V
+
+U4s
+
+1%
+
+Hav
+
+'%
+
+ours NEA CFS
+
+VCaA?
+
+tay
+
+3401
+
++3V
+
+De
+
+—.—
+
+loz
+
+OUTG
+
+{H>
+
+WA
+
+‘Tor VIEW
+
+u4so
+
+a
+
+CO
+
+W452
+
+OUT 7
+
+VEA &,
+
+H2Zv
+
+78M08
+
+2S
+
+ba
+
+\“7T
+
+45ND
+
+ro{&-___4-4)
+
+ouTEs
+
+WS
+
+VCE
+
+A4e
+
+no
+
+eo
+
+OO+5.2V
+
+our?
+
+vaso.
+
+356
+
+IN
+
+OUT 50)
+
+4
+
+VCE 3.
+
+{i>
+
+PL
+
+g' |
+
+ror!
+
+Bg CAIO4
+
+al
+
+1S
+
+NOE 4
+
+ice
+
+UR
+
+va49
+
+OUT I
+
+| es |
+
+SENSOR
+
+Ta@o
+
+vaoz
+
++5.6V
+
+mind
+
+ee
+
+Ep
+
+is
+
+o4
+
+A442.
+
+330
+
+CFS.
+
+iy >
+
+CAAT
+
+U7
+
+1 U453 g\ [He
+
+03
+
+124
+
+%
+
+Out)
+
+ind
+
+MCF &
+
+DGND.
+
+He
+
+HCI74
+
+“lav
+
+NCF ‘7;
+
+C402
+
+Be
+
+7
+
+loz
+
+wT iq
+
+{E>
+
++8yv
+
+oO
+
+reo
+
+DiS
+
+[D3
+
+a3)
+
+c410D
+
+19
+
+NCF &,
+
+{i>
+
+-!2yv
+
+1 i
+
+D4 _4
+
+Aloe
+
+INF
+
+PAN |
+
+C466
+
+acd T2sv
+
+Dia
+
+our fee
+
+23
+
+PAN Z
+
+(H>
+
+al
+
+INS002
+
+ms 2 a4
+
+os
+
+Ci mse
+
+‘OUT I7:
+
+TOP pew
+
+OUT)
+
+PANS,
+
+f4>
+
+uaol
+
+3B
+
+WeaAloz .i
+
+PAN 4.
+
+oT 25.
+
+Vee ours
+
+LEV AG
+
+11905 5
+
+BATA BUS i
+
+out zs
+
+26
+
+PAN 5,
+
+in>
+
+LEV AZ
+
+&
+
+Aoi
+
+2t
+
+PANG
+
+ouTt
+
+DAL
+
+= 4
+
+“aN
+
+OUT BY
+
+PAN 7,
+
+iu>
+
+OUT 2]
+
+LEN AS:
+
+~I2N
+
+O jcsv
+
+SV
+
+ABBRESS BUS +5vb o407
+
+OuTERg
+
+{H>
+
+cura
+
+alo
+
+PANS
+
+(i>
+
+LEV AAre>
+
+LEV 45,
+
+by |
+
+a4 LEFT RES
+
+ord
+
+Ai
+
+“oro
+
+A\
+
+SAS
+
+CUT za
+
+OUTS
+
+LEV
+
+LEV Bi
+
+AG
+
+io —
+
+DS
+
+ouras}
+
+3S_RGHT RES
+
+{A>
+
+Lev A?
+
+4,
+
+5
+
+fio
+
+SAL
+
+alas
+
+our 2g 26 LEFT cHokus ty
+
+13
+
+ouT or
+
+iK
+
+tI
+
+PAS iat HCI
+
+1Z
+
+SAZ
+
+HT CHORUS CV
+
+OT 7:
+
+Lev 46,
+
+HAN
+
+ad BO
+
+Ad
+
+our,
+
+27pt
+
+4
+
+yes
+
+ouTé
+
+PAO!
+
+714
+
+ane
+
+SAB
+
+our 28
+
+LEFT FINAL cy
+
+134
+
+AS 44
+
+1S
+
+Sh4
+
+Ut
+
+ourgy!
+
+LEV Bere
+
+B8<
+
+Ae 3
+
+fF
+
+SAS
+
+GND.
+
+vss
+
+our2g 39 RIGHT EMAL CV
+
+GsT 10)
+
+LEV Ba res,
+
+1S
+
+ToP
+
+¥audo3
+
+ja
+
+P4035
+
+ouT ul
+
+Is
+
+LEV SA
+
+WOO.
+
+View
+
+34
+
+28 e406
+
+LEV BS,
+
+1,256,910
+
+if
+
+to
+
+our apis
+
+oH
+
+a CAS
+
+our ait
+
+LEV B&,
+
+=
+
+AN
+
+-
+
+Pvp
+
+LEV B7
+
+140
+
+nee
+
+T 1OOpF
+
+OuTI4
+
+Lev
+
+Be
+
+Ba
+
+iF >
+
+Ado
+
+~5y
+
+if>
+
++N
+
+SAZ
+
+‘OUT 16)
+
+LEV GI
+
+C404
+
+Gos a4 2K
+
+LEV cz.
+
+P4002 Pac?
+
+SAS.
+
+Al
+
+OUT 7
+
+(a>
+
+iS
+
+> & LEFT CHORUS ON
+
+SAA
+
+OUT B
+
+Lev cS
+
+(4>
+
+Zo
+
+> 7 RIGHT CHORUS ON
+
+Ip
+
+Sag
+
+a2
+
+AB
+
+OUT Id
+
+126
+
+LEV C3,
+
+LEV “=>
+
+a
+
+i
+
+a
+
+OUTPUT EN
+
+Zs wugoa @
+
+fp NC
+
+1D
+
+tI
+
+SA\
+
+it
+
+AS
+
+OUT 2a
+
+iG>
+
+our al
+
+LEV Co
+
+iG>
+
+LS221
+
+te
+
+LEVC7
+
+a! “LI 1.sus
+
+OUT 22
+
+Lev cs
+
+(Q>
+
+1945 ov
+
+OR
+
++5Nb)
+
+i407
+
+av4os
+
+our 23)?
+
+{G>
+
+vy TE
+
+ul ri2V
+
+24
+
+C3!
+
+our 244
+
+LEV DV
+
+HO
+
+ta
+
+LEV 2.
+
+i
+
+12 —12V
+
+our 252
+
+45ND
+
+c403
+
+OUT 2b)
+
+36
+
+Lev ba,
+
+~tay
+
+—
+
+os AGND
+
++3ND
+
+VN
+
+Lev D4,
+
+=
+
+=
+
+Heb427
+
+14
+
+our 274
+
+LEVoS
+
+40m
+
+it
+
+C406 S3014K
+
+HLIB
+
+I
+
+INH
+
+100%F
+
+{%
+
++3.0V
+
+ourag 2 Lever
+
+Vss
+
+3, CAPACITANCE IN MICROFARADS
+
+7 ¥30403,
+
+1B.
+
+AD
+
+Z. ALL RESISTORS Mw, 5%
+
+0439 0
+
+A4dz
+
+1, RESISTANCE IN OHMS
+
+Lola
+
+it
+
+ene,
+
+kK
+
+NOTES UNLESS OTHERWISE SPECIFIED:
+
+le 2404 @
+
+is 2uS
+
+%
+
+082.
+
+SPARE
+
+Die,
+
+C470
+
+SEQUENTIAL
+
+3051 N. FIRST ST_~
+
+LSZ21
+
+1A
+
+CHG >
+
+1%
+
+dca
+
+CoOz2
+
+“iY
+
+GRCUITS inc
+
+Qp—ne
+
+ADI 4
+
+WAI] 47
+
+SAN JOSE.CA, 95134
+
++5Nb
+
+40427 weo4
+
+ASD
+
+Ww
+
+ae OO!
+
+™mE SCHEMATIC . PCB.
+
+U
+
+Ne
+
+oto FS |
+
+8
+
+fAzi
+
+=
+
+aneuier
+
+INA
+
+arrmows
+
+MAIN ANALOG,
+
+C400
+
+<
+
+=
+
+i Y > O
+
+stare
+
+9 tate]
+
+HCO4
+
+KY
+
+me
+
+cm
+
+473
+
+E
+
+2
+
+7
+
+pA E> Lev ps
+
+SAMPLE HOLD SENSOR
+
+ao
+
+> -001
+
+SIZE | DRAWING
+
+y
+
+=
+
+=
+
+,
+
+ae
+
+roe
+
+SD 2400-4
+
+~5y
+
+AN
+
+=
+
+=
+
+iss
+
+SCALE: —
+
+Re-crtes rom Corns Raproregmcs
+
+| sreet | oF 4
+
+¥ FAL
+
+eT
+
+"
+
+=
+
+=

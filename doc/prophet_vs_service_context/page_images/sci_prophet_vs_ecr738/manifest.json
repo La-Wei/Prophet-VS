@@ -1,0 +1,35 @@
+{
+  "source_pdf": "doc/sci_prophet_vs_ecr738.pdf",
+  "pdf_name": "sci_prophet_vs_ecr738.pdf",
+  "pdf_stem": "sci_prophet_vs_ecr738",
+  "extraction_timestamp": "2026-05-01T10:26:58.648889+00:00",
+  "renderer": "cups_airprint_rastertotiff",
+  "page_count": 3,
+  "pages": [
+    {
+      "page": 1,
+      "image_path": "doc/prophet_vs_service_context/page_images/sci_prophet_vs_ecr738/page_001.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    },
+    {
+      "page": 2,
+      "image_path": "doc/prophet_vs_service_context/page_images/sci_prophet_vs_ecr738/page_002.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    },
+    {
+      "page": 3,
+      "image_path": "doc/prophet_vs_service_context/page_images/sci_prophet_vs_ecr738/page_003.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    }
+  ],
+  "notes": "I PDF originali non sono stati modificati. Rendering eseguito localmente; se OCR/testo risultano incerti, usare [NON CHIARO]."
+}

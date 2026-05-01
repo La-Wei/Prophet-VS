@@ -1,0 +1,43 @@
+{
+  "source_pdf": "doc/5508.pdf",
+  "pdf_name": "5508.pdf",
+  "pdf_stem": "5508",
+  "extraction_timestamp": "2026-05-01T10:27:05.547527+00:00",
+  "renderer": "cups_airprint_rastertotiff",
+  "page_count": 4,
+  "pages": [
+    {
+      "page": 1,
+      "image_path": "doc/prophet_vs_service_context/page_images/5508/page_001.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    },
+    {
+      "page": 2,
+      "image_path": "doc/prophet_vs_service_context/page_images/5508/page_002.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    },
+    {
+      "page": 3,
+      "image_path": "doc/prophet_vs_service_context/page_images/5508/page_003.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    },
+    {
+      "page": 4,
+      "image_path": "doc/prophet_vs_service_context/page_images/5508/page_004.png",
+      "width": 2550,
+      "height": 3300,
+      "dpi": 300,
+      "post_render_rotation": 0
+    }
+  ],
+  "notes": "I PDF originali non sono stati modificati. Rendering eseguito localmente; se OCR/testo risultano incerti, usare [NON CHIARO]."
+}

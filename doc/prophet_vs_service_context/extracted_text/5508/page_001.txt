@@ -1,0 +1,319 @@
+SOURCE: doc/5508.pdf
+PAGE: 1
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+PD 508
+
+Octal Sample & Hold
+
+OnChip Systems
+
+eee—SCSCS
+
+ADDRESS INPUTS
+
+PRODUCT HIGHLIGHTS
+
++5V to
+
+= tH?
+
+= GH
+
+acho
+
+CH.3
+
+L 2v
+
+“TY OUT
+
+“OUT
+
+“TOUT
+
+OUT
+
+¥y
+
+B
+
+Cc
+
+=
+
+H *
+
+=
+
+—_—
+
+=
+
+—
+
+—
+
+#8 Matched Sample and Holds in a
+
+of
+
+cf
+
+L.-
+
+Lee
+
+Single Package
+
+Ca'3
+
+12
+
+ct
+
+¢ Excellent Linearity and Accuracy
+
+50K
+
+50K
+
+at
+
+¢ Fast Acquisition Time: to 12 Bits in
+
+NN UON
+
+,3
+
+Less Than 2.5us
+
+=a
+
+I/Al
+
+| . LATCH
+
+a
+
+= t+
+
+¢ Low Hold Step: <2 mV
+
+3A
+
+V3 4 S
+
+¥
+
+h
+
+3
+
+>)"
+
+Lo.
+
+ADDRESSABLE
+
+¢ Low Droop Rate: <1 m¥V/ms
+
+er
+
+D
+
+Z
+
+¢ internal Hold Capacitors
+
+EN
+
+J
+
+¢ Supply Independent TTL/CMOS
+
+Compatible Inputs
+
+TIMER AND
+
+N
+
+a
+
+CONTROL
+
+Vss
+
+¢ Pin Compatible with CD4051
+
+ait
+
+—
+
+¢ Easy to Use
+
+@ Low Cost
+
+=f
+
+7
+
+TP
+
+re Tae
+
+-3V to
+
+“cH
+
+cH. 6
+
+VINPUT ——CH.7
+
+= CH.5
+
+INHIBIT
+
+10V
+
+Optional Smoothing
+
+APPLICATIONS
+
+OUT
+
+~ QUT
+
+~ OUT
+
+OUT
+
+Capacitators
+
+PD 508 Block Diagram and Typical Connection
+
+¢ Multi-channel Data Acquisition Systems
+
+@ Automatic Test Equipment
+
+DESCRIPTION
+
+The PD 508 is an 8 channel multiplexed
+
+menting dual tme constant smoothing fil-
+
+¢ Digital Audio Systems
+
+Sample and Hold intended for generating
+
+ters at each output. Such a feature allows
+
+¢@ Robotics & Industrial Control
+
+software generated control waveforms to
+
+multiple programmable voltages. Contain-
+
+ing an analog multiplexer, 3 bit decoder,
+
+have both fast transitions and low ripple
+
+¢ Instrumentation
+
+and 8 individual Sample and Holds, the
+
+¢ Event Analysis
+
+508 can acquire a voltage into any one
+
+With true push-pull outputs able to swing
+
+within 2.5 volts of either supply, each chan-
+
+of its 8 outputs to within 0.05% in less
+
+¢ Software Trimming and Calibration
+
+than 2.5us
+
+nel also delivers high performance in offset
+
+¢ Multiple Waveform Generation
+
+and hold step size. Ease of use is further
+
+Pin-for-pin compatible with industry
+
+enhanced with outputs which can handle
+
+standard CD4051 CMOS multiplexer, the
+
+any amount of capacitance with no degra:
+
+ORDERING INFORMATION
+
+PD 508 additionally contains many enhanced
+
+dation in performance, and CMOS logic
+
+features over other multiplexed Sample
+
+inputs which are TTL compatible regard-
+
+and Holds. An on-board 3-bit latch and
+
+less of supplies
+
+PART
+
+PACKAGE TEMP
+
+NUMBER
+
+TYPE
+
+RANGE
+
+timing generator (one-shot) greatly simpli-
+
+fy interface to a microprocessor system
+
+Complete with all hold and timing capaci-
+
+PD 508P
+
+16 pin PDIP
+
+0°C to +70°C
+
+while still maintaining compatibility as a
+
+tors on-chip and requiring no external
+
+replacement part in existing systems. In
+
+components, the PD 508 makes interface
+
+PD 508C
+
+16 pin CDIP -20°C to +85°C
+
+addition, each channel offers individually
+
+between microprocessor and voltage con-
+
+selectable low (<200 ohm) or high (SOK
+
+trolled devices exceptionally simple and
+
+PD 5088
+
+16 pin SOIC
+
+0°C to +70°C
+
+nominal) output impedance for imple-
+
+economical

@@ -1,0 +1,539 @@
+SOURCE: doc/pvs_service.pdf
+PAGE: 12
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+1
+
+RAOG
+
+301K
+
+REVISIONS
+
+c92i
+
+[Rev |
+
+SCRIPTION
+
+|_baTEe Jaren
+
+razt
+
+1000 Pe
+
+922 SRW
+
+22K
+
+F%
+
+47 92
+
+thy
+
+ey)
+
+RIS
+
+ae “grag 903
+
+=
+
+>.
+
+30.14
+
+c903
+
+NEST
+
+(%
+
+us)
+
+£925
+
+1
+
+RWI
+
+RIGHT VOLES
+
+5
+
+AZ
+
+47K
+
+DS
+
+301K
+
+C450!
+
+P90
+
+T
+
+1F
+
+Vv
+
+~T
+
+Y2 Ud
+
+RoC
+
+lev
+
+oa
+
+902,
+
+1 c904
+
+CHS
+
+RIOS
+
+390 ee
+
+20%
+
+-[3xer
+
+“ley
+
+5%
+
+224
+
+§ RIGT
+
+RIOZ
+
+7 KHZ LOWPASS
+
+230.1K
+
+7 KHZ LOWPASS
+
+¥2U901
+
+T 1% 94
+
+33.2K
+
+RI:
+
+i2y
+
+332K 31082
+
+c947
+
+5%
+
+__ JRA07
+
+'%
+
+22pPr
+
+1M
+
+CIWS
+
+C323
+
+44.6908
+
+[i600 PF
+
+RIGS
+
+3 $ RaCs
+
+> 332K
+
+40914
+
+RIGHT
+
+I!
+
+[ = 7e
+
+301K
+
+%
+
+CLOCK
+
+RAGE
+
+%
+
+33.26
+
+TRIM
+
+2.1K
+
+RIGT%|
+
+C969
+
++8V a.
+
+a
+
+Cc
+
+RI50
+
+1%
+
+CWO
+
+3900"
+
+Troe
+
++8VRT.
+
+RID4
+
+IM
+
+¢951
+
+ve caw
+
+RAP
+
+62K
+
+BN ex.
+
+I %
+
+eae =
+
+l0oK
+
+gRro4!
+
+R924
+
+£952
+
+R921
+
+$44.2K
+
+P9C1
+
+WOK
+
+1%
+
+R940
+
+10K
+
+RAZ
+
+3+—_
+
+~lav
+
+Raz5
+
+RI2G
+
+Sy
+
+RiaWT
+
+FINAL
+
+(KN%
+
+Von
+
+Lca4s
+
+2UWS
+
+> RIG
+
+RIZ>
+
++8Vat.
+
+Vin
+
+To
+
+RISG
+
+C966 RI89
+
+—
+
+om
+
+2OK I%
+
+{ C937
+
+Lo
+
+47K
+
+NS
+
+ae f
+
+RUS
+
+al
+
+“RB
+
+R520
+
+RISZ
+
+20K
+
+R922
+
+aay
+
+£905.
+
+Lroaz
+
+= buI02
+
+1.3K
+
+3209
+
+47K
+
+R455]
+
+ev
+
+RIB
+
+mate
+
+Se
+
+OOK
+
+ol
+
+slow
+
+pS, wee
+
++8V ar,
+
+Vee our
+
+> R953
+
+ton
+
+C954 RATS
+
+low
+
+1%
+
+ized
+
+OF]
+
+C938
+
+22
+
+20K
+
+20%
+
+tt
+
+> RDG
+
+1%
+
++1953 § R947
+
+Rasie 475
+
+4007
+
+Feene.
+
+04908
+
+5 100K.
+
+ene
+
+L 2936
+
+NT
+
+at
+
+[*
+
+IBA
+
+woK
+
+bt
+
+INS4A
+
+cq38s
+
+el
+
++8 var.
+
+aun
+
+pyar
+
+v2 U9IS
+
+14
+
+is
+
+Geez
+
+OUT;
+
+Ae
+
+RIGHT CHORUS CV
+
+Y2u9ez
+
+40!3
+
+U9 16
+
+CIe7
+
+° YeI906
+
+Bee)
+
+S R954
+
+NEST7I
+
+RAI
+
+=2.2
+
+on
+
+t_
+
+—— —
+
+iM
+
+euus
+
+V2 U90T
+
+220°r
+
+Mm
+
+S 2.
+
+RIGHT
+
+qe
+
+C975,
+
+RIGHT CHORUS ON
+
+C968
+
+AUBIO
+
+RZ
+
+L
+
+C988
+
+3360
+
+“al
+
+£990
+
+]'
+
+22m
+
+_
+
+72.c
+
+~lv
+
+RIGHT CHORUS
+
+ARK
+
+Rd108
+
+3051 N. FIRST ST.
+
+SAN JOSE.CA. 95134
+
+FTE
+
+SCHEMATIC PCB, MAIN
+
+ANALOG ,2400, RIGHT CHORUS
+
+REV
+
+SB2400 -9
+
+am
+
+tn 0 hom Cutler Reprgraamce
+
+SCALE
+
+3
+
+[ seeTZ oF 2
+
+¥ 4-73
+
+sce

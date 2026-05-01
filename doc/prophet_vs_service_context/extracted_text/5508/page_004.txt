@@ -1,0 +1,169 @@
+SOURCE: doc/5508.pdf
+PAGE: 4
+METHOD: ocr
+CONFIDENCE: medium
+
+CONTENT:
+PD 508
+
+Input & Output Considerations
+
+rate when the low resistance state is select-
+
+For best performance, the voltage input
+
+(pin 3) should be driven from a tow im-
+
+ed: The equivalent output resistance in the
+
+pedance source, such as an op amp out-
+
+sourcing condition is several hundred
+
+put. In addition, a small capacitor (e.g.
+
+ohms, while in the sinking condition, the
+
+100-1000pF) from the op amp output
+
+equivalent output resistance is 500-1000
+
+back to the inverting input should be
+
+ohms, depending on the minimum Vo-Vss
+
+used to keep the output impedance low
+
+even at high frequencies.
+
+For load capacitance values greater than
+
+To prevent possible latch-up, the input
+
+nF, the transient currents generated in
+
+voltage should be restricted at all times
+
+the output stage can become much larger
+
+and under all conditions to within the
+
+than the recommended 5mA limit; thus for
+
+Vpp and Vg. supplies. If the supplies to
+
+these larger values, a 1K current limiting
+
+the driving op amp are larger than those
+
+resistor should be placed between output
+
+to the 508, then there exists the possibility
+
+and load capacitor.
+
+of the op amp output being outside the
+
+508 supplies, and some means, such as sig-
+
+The value of load capacitor, of course, is
+
+nal or Zener diodes in the feedback loop,
+
+selected to give the desired time constant
+
+should be added to ensure this condition
+
+when the 50K nominal output resistor is
+
+can never occur.
+
+selected. A 0.1uF, for instance, will allow
+
+the smoothing filter time constant to be
+
+Each channel output can source up to
+
+selectable between 5mS and approximate-
+
+3mA steady state for any positive supply.
+
+ly 0.15mS.
+
+The output sink capability, however, is
+
+dependent on the difference between the
+
+In applications utilizing the selectable out-
+
+put resistance feature, the filtered output
+
+most negative output voltage excursion
+
+and the negative supply, according to
+
+of the 508 may require buffering by an op
+
+amp voltage follower should the load
+
+the following:
+
+impedance be too low. However, in many
+
+applications the input voltage port of the
+
+Toginx (MA) = 0.15 (Vs5 - Vo +1)?
+
+device to be controlled has high enough
+
+input impedance that it may be directly
+
+Thus, for an output of Vo = -2.5V with
+
+Veg = -5V, the maximum sink current is
+
+driven by the 508 outputs even in the high
+
+output impedance mode.
+
+330 uA (minimum load of 7.5K to ground);
+
+but for an output of OV with Vs, = -5V, the
+
+maximum sink current rises to 2.4mA. (Of
+
+course, driving a load to ground with a
+
+minimum output of OV requires no sink
+
+capability.)
+
+The source and sink capability is especially
+
+important when the output is required to
+
+drive a large capacitive load, as this to a
+
+OnChip Systems
+
+large extent determines the output charge
+
+The information contained herein is believed to be accurate. No respon-
+
+1190 Coleman Avenue
+
+sibility Is assumed for any inaccuracies. This literature does not convey
+
+to the purchaser any license under patent rights of the manufacturer or
+
+San Jose, California 95110
+
+time without notice.
+
+others. OnChip reserves the right to make changes in the circuity at any
+
+Telephone: 408.988.5400
+
+©1991, OnChip Systems
+
+Facsimile: 408.988.5488
