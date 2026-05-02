@@ -11,10 +11,11 @@ Questa repository contiene materiale preparato per aiutare un tecnico a diagnost
 2. [Briefing tecnico](tecnico/01_problemi_e_fix/technician_briefing_volume_zero_bleed.md)
 3. [Mappa rapida](tecnico/01_problemi_e_fix/quick_navigation_map.md)
 4. [CEM5530: diagnosi e ricambi](tecnico/01_problemi_e_fix/cem5530_diagnosi_ricambi.md)
-5. [Jack posteriori](tecnico/01_problemi_e_fix/jack_sostituzione.md)
-6. [Ricambi pannello posteriore](tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md)
-7. [Checklist ispezione](tecnico/02_checklist_misure/visual_inspection_checklist.md)
-8. [Piano misure sicure](tecnico/02_checklist_misure/safe_measurement_plan.md)
+5. [CEM5530/ELD5530: dossier clone o ricostruzione](tecnico/07_autocostruzione_ricambi/cem5530_clone_build_dossier.md)
+6. [Jack posteriori](tecnico/01_problemi_e_fix/jack_sostituzione.md)
+7. [Ricambi pannello posteriore](tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md)
+8. [Checklist ispezione](tecnico/02_checklist_misure/visual_inspection_checklist.md)
+9. [Piano misure sicure](tecnico/02_checklist_misure/safe_measurement_plan.md)
 
 ## Cartelle
 
@@ -31,6 +32,8 @@ La cartella `tecnico/06_pdf_originali/` contiene:
 - `sci_prophet_vs_ecr739.pdf`
 - `5530.pdf`
 - `5508.pdf`
+
+La sottocartella `tecnico/06_pdf_originali/component_datasheets/` contiene link ai datasheet esterni `MAX5167` e `SSM2300` utili per valutare cloni `CEM5530`.
 
 ## Regolatori nella foto
 

@@ -17,11 +17,20 @@ Non concludere automaticamente che il pot volume sia guasto: prima capire se il 
 | PDF sorgente | Pagina | Immagine | Nota | Perche importante | Ispezionare per primo |
 | --- | --- | --- | --- | --- | --- |
 | `../06_pdf_originali/pvs_service.pdf` | 6 | `../05_pagine_rilevanti/immagini/pvs_service/page_006.png` | `../05_pagine_rilevanti/note/pvs_service/page_006.md` | Main analog sample & hold / sensor, CEM5530, DAC e CV `VCA/VCF/PAN/LEV` | `U449/U425`, `U451`, `INH`, `DAC`, rail `+8V/+5.6V/-5V` |
-| `../06_pdf_originali/5530.pdf` | 2 | `../05_pagine_rilevanti/immagini/5530/page_002.png` | `../05_pagine_rilevanti/note/5530/page_002.md` | Pinout/diagramma CEM5530, utile anche per dissipatori e orientamento | Package `44` pin, `U449/U425` |
+| `../06_pdf_originali/5530.pdf` | 2 | `../05_pagine_rilevanti/immagini/5530/page_002.png` | `../05_pagine_rilevanti/note/5530/page_002.md` | Pinout/diagramma CEM5530, utile anche per dissipatori e orientamento | Package `40` pin, `U449/U425` |
 | `../06_pdf_originali/5530.pdf` | 3 | `../05_pagine_rilevanti/immagini/5530/page_003.png` | `../05_pagine_rilevanti/note/5530/page_003.md` | Limiti alimentazione e comportamento uscite CEM5530 | Carichi e capacita' sulle uscite CV, rail CEM5530 |
 | `../06_pdf_originali/5530.pdf` | 4 | `../05_pagine_rilevanti/immagini/5530/page_004.png` | `../05_pagine_rilevanti/note/5530/page_004.md` | Timing, inhibit e droop dello sample & hold | Droop, ripple o modulazione sulle uscite hold |
 
 Se la modulazione sembra seguire patch/LFO/envelope, partire da CV e S&H prima di sostituire audio op amp.
+
+## 2b. CEM5530 / cloni / autocostruzione
+
+| Sorgente | Pagina | Immagine | Nota | Perche importante | Ispezionare per primo |
+| --- | --- | --- | --- | --- | --- |
+| `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md` | dossier | n/a | `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md` | Stato reale schemi ELD5530, architetture `MAX5167`, `SSM2300`, `PD508/CEM5508` e test minimi | Non esistono Gerber/BOM pubblici verificati; usare come brief di progettazione |
+| `../06_pdf_originali/5530.pdf` | 2 | `../05_pagine_rilevanti/immagini/5530/page_002.png` | `../05_pagine_rilevanti/note/5530/page_002.md` | Pinout da ricavare manualmente prima di qualsiasi clone | Pin 1, 40 pin, output e rail |
+| `../06_pdf_originali/5530.pdf` | 3-4 | `../05_pagine_rilevanti/immagini/5530/page_003.png` | `../05_pagine_rilevanti/note/5530/page_003.md` | Alimentazioni, swing, timing `INH`, droop e acquisition | Rail e timing reali da misurare su `U449/U425` |
+| `../06_pdf_originali/component_datasheets/README.md` | link datasheet | n/a | `../06_pdf_originali/component_datasheets/README.md` | Link ufficiali `MAX5167` e `SSM2300` per lavoro offline/manuale | Scaricare datasheet esterni se si progetta una scheda |
 
 ## 3. Pressure / aftertouch
 

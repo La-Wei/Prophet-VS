@@ -36,21 +36,71 @@ Se il tecnico decide di estrarre i chip, evitare molte inserzioni/rimozioni. I s
 
 ## Ricambi e cloni
 
-Opzioni da considerare, in ordine pratico:
+Opzioni da considerare, in ordine pratico. Il Prophet VS usa due moduli/chip: uno per `U449` e uno per `U425`.
 
-1. Straylight Engineering `CEM5530 replacement modules`: alternativa moderna piu concreta da verificare direttamente col produttore. Straylight indicava ancora moduli `CEM5530` disponibili nel post "Update Jan 2023"; disponibilita' attuale da confermare prima dell'ordine.
-2. `ELD5530` di Eric Penot / Synthelectro: clone storico per Prophet VS e Studio 440. La versione 2 e' descritta come sostituzione diretta, basata su IC Maxim Integrated e con gestione alimentazioni integrata. Disponibilita' attuale da verificare.
-3. Vecchie board Wine Country / NMC / Cantos / SSM2300: esistono come storia di riparazione, ma non vanno considerate disponibili senza contatto diretto.
-4. Vecchie board basate su `PD508/CEM5508`: funzionano come concetto, ma anche quei chip sono rari e vecchi.
-5. `CEM5530` originale NOS o pull: comprare solo da fonte affidabile, testato, evitando componenti recuperati non garantiti.
+### Link operativi
 
-Nota: non ho trovato un prodotto `CEM5530` su Electric Druid. La sigla da cercare e' probabilmente `ELD5530`, legata a Synthelectro/Eric Penot, non "Electric Druid".
+1. Straylight Engineering `CEM5530 replacement modules`: questa e' la pista piu chiara per comprare oggi un ricambio moderno. Nel post "What a year." Straylight scriveva che il clone `CEM5530` era ancora disponibile a `75 USD` ciascuno piu spedizione; nel post "Update Jan 2023" riportava ancora `CEM5530 replacement modules` disponibili. Prima di ordinare va comunque confermata disponibilita' attuale:
+   - contact form Straylight: `https://www.straylightengineering.com/contact/`
+   - disponibilita'/prezzo storico 2020: `https://www.straylightengineering.com/what-a-year/`
+   - disponibilita' citata nel 2023: `https://www.straylightengineering.com/update-jan-2023/`
+   - vecchia pagina progetto/design 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
+2. `ELD5530` di Eric Penot / Synthelectro: clone storico specifico per Prophet VS e Studio 440. Non ho trovato una pagina carrello o "buy now" attiva; questi sono quindi link di informazione/contatto col produttore originale, non un negozio automatico:
+   - pagina archivio Synthelectro con il post "Remplacement du CEM5530 pour Prophet VS & Studio 440.", lunedi' 2 giugno 2014: `https://synthelectro-fr.blogspot.com/2014/06/`
+   - post 2015 con Prophet VS aggiornato e due `ELD5530`: `https://synthelectro-fr.blogspot.com/2015/07/how-to-upgrade-programm-memory-of.html`
+   - email pubblicata da Synthelectro nei commenti del post 2015 per richieste: `synthelectro@netcourrier.com`
+3. `CEM5530` originale NOS o pull: comprare solo da fonte affidabile, testato, evitando componenti recuperati non garantiti. Non e' un clone moderno e non risolve il problema affidabilita' di base del componente vecchio.
+4. Vecchie board Wine Country / NMC / Cantos / SSM2300: esistono come storia di riparazione, ma non vanno considerate disponibili senza contatto diretto.
+5. Vecchie board basate su `PD508/CEM5508`: funzionano come concetto, ma anche quei chip sono rari e vecchi.
+
+Nota importante: non ho trovato un prodotto `CEM5530` su Electric Druid. La sigla corretta da chiedere/cercare e' `ELD5530`, legata a Synthelectro/Eric Penot.
+
+### Cosa sono davvero gli `ELD5530`
+
+Gli `ELD5530` non sono `CEM5530` originali modificati. Sono moduli/adattatori sostitutivi che usano almeno un IC sample & hold commerciale moderno al posto del Curtis originale.
+
+La fonte forum cita esplicitamente una clonazione del `CEM5530` con un Maxim `MAX5167`. Il datasheet Maxim/Analog Devices descrive il `MAX5167` come sample & hold a `32` canali con ingresso multiplexato, quindi e' molto vicino al ruolo del `CEM5530` nel Prophet VS, che usa `30` canali per chip. La pagina Synthelectro dice anche che la versione 2 del ricambio e' basata su IC Maxim Integrated e include la gestione delle alimentazioni necessarie.
+
+Tradotto per il tecnico:
+
+- non si prende un `MAX5167` e lo si infila direttamente al posto del `CEM5530`;
+- serve una schedina che adatti pinout, alimentazioni, segnali di controllo, output usati/non usati e orientamento;
+- se il tecnico ha schema, PCB/Gerber, BOM e IC corretti puo' teoricamente costruirli;
+- senza file di progetto conviene comprare moduli gia' fatti o chiedere a Synthelectro/Straylight, perche' rifarli diventa un lavoro di progettazione e test, non una normale riparazione.
+
+Per la ricostruzione da zero, vedere anche il dossier dedicato: `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`.
+
+Messaggio pratico da mandare a Straylight:
+
+```text
+Hello,
+I need two CEM5530 replacement modules for a Sequential Circuits Prophet VS,
+positions U449 and U425. Can you confirm current availability, price,
+shipping to Italy, installation notes, pin-1 orientation, height clearance,
+and whether replacing the original sockets with quality turned-pin/tulip
+sockets is recommended?
+
+Thank you.
+```
+
+Messaggio pratico da mandare a Synthelectro per `ELD5530`:
+
+```text
+Hello,
+I own a Sequential Circuits Prophet VS and I am looking for two ELD5530
+replacement modules for the original CEM5530 chips, positions U449 and U425.
+Are ELD5530 modules still available? If yes, can you confirm price, shipping
+to Italy, installation notes, pin-1 orientation, height clearance, and whether
+socket replacement is recommended?
+
+Thank you.
+```
 
 ## Dissipatori e temperatura
 
 Nei forum sul Prophet VS ricorre lo stesso consiglio: i `CEM5530` scaldano e conviene aggiungere un piccolo dissipatore sui chip originali.
 
-Il datasheet/pinout mostra un package a `44` pin. Nel Prophet VS servono due dissipatori identici, uno per `U449` e uno per `U425`.
+Il datasheet/pinout mostra un package a `40` pin. Nel Prophet VS servono due dissipatori identici, uno per `U449` e uno per `U425`.
 
 Misura target consigliata:
 
@@ -133,11 +183,15 @@ Da non fare:
 - Gearspace, Prophet VS reliability: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability.html`
 - Gearspace, pagina 2 dello stesso thread: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability-2.html`
 - Gearspace, heatsink CEM5530: `https://gearspace.com/board/geekzone/1064015-where-can-i-find-heatsink-cem5530-chips.html`
+- Analog Devices / Maxim `MAX5167L`: `https://www.analog.com/en/products/max5167l.html`
+- Analog Devices / Maxim `MAX5167` datasheet PDF: `https://www.analog.com/media/en/technical-documentation/data-sheets/MAX5167-MAX5167N.pdf`
 - DigiKey, Aavid/Boyd `508700B00000G`: `https://www.digikey.com/en/products/detail/boyd-laconia-llc/508700B00000G/373763`
 - Mouser, Aavid `508700B00000G`: `https://www.mouser.com/ProductDetail/Aavid/508700B00000G?qs=2v7q0MSBcBOClotXj3TAvQ%3D%3D`
 - Farnell, Fischer Elektronik `ICK 40 B`: `https://es.farnell.com/fischer-elektronik/ick-40-b/disipador-de-calor-dip-pegado/dp/4620926`
 - DigiKey, 3M `8810-0.5-5`: `https://www.digikey.com/en/products/detail/3m-tc/8810-0-5-5/2649860`
 - DigiKey, 3M `8810-0.75-5`: `https://www.digikey.com/en/products/detail/3m-tc/8810-0-75-5/2649863`
+- Straylight Engineering, contact form: `https://www.straylightengineering.com/contact/`
+- Straylight Engineering, prezzo storico `CEM5530` clone 2020: `https://www.straylightengineering.com/what-a-year/`
 - Straylight Engineering, update Jan 2023: `https://www.straylightengineering.com/update-jan-2023/`
 - Straylight Engineering, vecchia pagina clone 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
 - Synthelectro ELD5530 / CEM5530 replacement: `https://synthelectro-fr.blogspot.com/2014/06/`

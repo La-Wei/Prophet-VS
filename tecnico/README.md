@@ -11,10 +11,11 @@ Questa cartella e' pensata per un tecnico che deve diagnosticare un Sequential C
 2. `01_problemi_e_fix/technician_briefing_volume_zero_bleed.md`
 3. `01_problemi_e_fix/quick_navigation_map.md`
 4. `01_problemi_e_fix/cem5530_diagnosi_ricambi.md`
-5. `01_problemi_e_fix/jack_sostituzione.md`
-6. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
-7. `02_checklist_misure/visual_inspection_checklist.md`
-8. `02_checklist_misure/safe_measurement_plan.md`
+5. `07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`
+6. `01_problemi_e_fix/jack_sostituzione.md`
+7. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
+8. `02_checklist_misure/visual_inspection_checklist.md`
+9. `02_checklist_misure/safe_measurement_plan.md`
 
 ## Identificazione regolatori nella foto
 
@@ -34,9 +35,10 @@ L'ordine sinistra->destra deriva dalla designator map `pvs_service` pagina 5; co
 - `04_componenti_net_rail/`: indici componenti, rail, net e connettori utili.
 - `05_pagine_rilevanti/`: note e immagini delle sole pagine utili.
 - `06_pdf_originali/`: PDF sorgenti principali.
+- `07_autocostruzione_ricambi/`: dossier per valutare cloni/ricostruzione di ricambi non reperibili.
 - `foto/`: foto utente dell'area regolatori.
 
-PDF inclusi in `06_pdf_originali/`: `pvs_service.pdf`, `sci_prophet_vs_ecr738.pdf`, `sci_prophet_vs_ecr739.pdf`, `5530.pdf`, `5508.pdf`.
+PDF inclusi in `06_pdf_originali/`: `pvs_service.pdf`, `sci_prophet_vs_ecr738.pdf`, `sci_prophet_vs_ecr739.pdf`, `5530.pdf`, `5508.pdf`. La sottocartella `06_pdf_originali/component_datasheets/` contiene link ai datasheet esterni `MAX5167` e `SSM2300`.
 
 ## Escluso apposta
 

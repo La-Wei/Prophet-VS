@@ -9,7 +9,7 @@ Pinout/diagramma interno del `CEM5530`.
 
 ## Note utili per ricambi e dissipazione
 
-- La pagina mostra un package con pin numerati da `1` a `44`.
+- La pagina mostra un package con pin numerati da `1` a `40`.
 - Nel Prophet VS i due `CEM5530` rilevanti sono `U449` e `U425`.
 - Per dissipatori adesivi sul corpo del chip, comprare due dissipatori identici: uno per `U449` e uno per `U425`.
 
