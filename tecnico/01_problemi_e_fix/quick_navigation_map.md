@@ -17,6 +17,7 @@ Non concludere automaticamente che il pot volume sia guasto: prima capire se il 
 | PDF sorgente | Pagina | Immagine | Nota | Perche importante | Ispezionare per primo |
 | --- | --- | --- | --- | --- | --- |
 | `../06_pdf_originali/pvs_service.pdf` | 6 | `../05_pagine_rilevanti/immagini/pvs_service/page_006.png` | `../05_pagine_rilevanti/note/pvs_service/page_006.md` | Main analog sample & hold / sensor, CEM5530, DAC e CV `VCA/VCF/PAN/LEV` | `U449/U425`, `U451`, `INH`, `DAC`, rail `+8V/+5.6V/-5V` |
+| `../06_pdf_originali/5530.pdf` | 2 | `../05_pagine_rilevanti/immagini/5530/page_002.png` | `../05_pagine_rilevanti/note/5530/page_002.md` | Pinout/diagramma CEM5530, utile anche per dissipatori e orientamento | Package `44` pin, `U449/U425` |
 | `../06_pdf_originali/5530.pdf` | 3 | `../05_pagine_rilevanti/immagini/5530/page_003.png` | `../05_pagine_rilevanti/note/5530/page_003.md` | Limiti alimentazione e comportamento uscite CEM5530 | Carichi e capacita' sulle uscite CV, rail CEM5530 |
 | `../06_pdf_originali/5530.pdf` | 4 | `../05_pagine_rilevanti/immagini/5530/page_004.png` | `../05_pagine_rilevanti/note/5530/page_004.md` | Timing, inhibit e droop dello sample & hold | Droop, ripple o modulazione sulle uscite hold |
 

@@ -50,6 +50,29 @@ Nota: non ho trovato un prodotto `CEM5530` su Electric Druid. La sigla da cercar
 
 Nei forum sul Prophet VS ricorre lo stesso consiglio: i `CEM5530` scaldano e conviene aggiungere un piccolo dissipatore sui chip originali.
 
+Il datasheet/pinout mostra un package a `44` pin. Nel Prophet VS servono due dissipatori identici, uno per `U449` e uno per `U425`.
+
+Misura target consigliata:
+
+- base circa `50-51 mm` lunga, `13-14 mm` larga, altezza circa `5 mm`;
+- non superare `15 mm` di larghezza senza prova a secco sul chip reale;
+- evitare dissipatori alti oltre `5 mm` se non si e' verificata la chiusura del case;
+- se il dissipatore e' leggermente piu corto del corpo del `CEM5530`, va bene: deve scaricare calore dal corpo centrale senza arrivare ai pin.
+
+Ricambi sensati:
+
+- Aavid/Boyd `508700B00000G`: `50.8 x 13.46 x 4.83 mm`, alluminio nero, per `40-DIP`, adhesive/tape non incluso. E' il formato piu sicuro come larghezza per non avvicinarsi ai pin: `https://www.digikey.com/en/products/detail/boyd-laconia-llc/508700B00000G/373763`
+- Mouser per lo stesso `508700B00000G`: `https://www.mouser.com/ProductDetail/Aavid/508700B00000G?qs=2v7q0MSBcBOClotXj3TAvQ%3D%3D`
+- Fischer Elektronik `ICK 40 B`: `51 x 19 x 4.8 mm`, per DIP, disponibile tramite Farnell/element14; usarlo solo se una prova a secco conferma che i `19 mm` di larghezza non toccano pin, socket o componenti vicini: `https://es.farnell.com/fischer-elektronik/ick-40-b/disipador-de-calor-dip-pegado/dp/4620926`
+
+Adesivo/pad termico se non integrato:
+
+- 3M `8810-0.5-5`: tape termico biadesivo `12.7 mm` largo, `0.25 mm` spesso, da tagliare a circa `50 mm` per il dissipatore Aavid/Boyd: `https://www.digikey.com/en/products/detail/3m-tc/8810-0-5-5/2649860`
+- 3M `8810-0.75-5`: stessa serie, `19.05 mm` larga, adatta come misura al Fischer `ICK 40 B` se viene usato quel dissipatore: `https://www.digikey.com/en/products/detail/3m-tc/8810-0-75-5/2649863`
+- 3M `8810SQ-35(100)`: pad `35 x 35 mm`, comodo se si vuole tagliare materiale in piccoli pezzi; per coprire un dissipatore lungo servono piu pezzi tagliati puliti: `https://www.digikey.com/en/products/detail/3m-tc/8810SQ-35-100/3529589`
+
+Nota Amazon, ricerca del 2026-05-02: non sono stati aggiunti link Amazon perche non sono emersi risultati affidabili per `508700B00000G`, `ICK 40 B`, `3M 8810-0.5-5` o `3M 8810-0.75-5`. I risultati generici tipo dissipatori BGA/Raspberry o nastri VHB/montaggio non vanno considerati equivalenti se non riportano chiaramente dimensioni, uso termico, biadesivo termico ed eventuale isolamento elettrico.
+
 Accorgimenti sensati:
 
 - usare un dissipatore adesivo per IC/DIP, o piccolo dissipatore alettato a basso profilo;
@@ -58,6 +81,9 @@ Accorgimenti sensati:
 - verificare altezza e chiusura del case;
 - misurare temperatura prima/dopo, non andare a sensazione;
 - evitare ventole o masse pesanti appese al chip.
+- se il dissipatore ha gia' pad adesivo termico integrato, non aggiungere un secondo strato;
+- non usare pasta termica semplice senza fissaggio meccanico: il dissipatore potrebbe staccarsi;
+- evitare adesivi caricati argento o conduttivi; se si usa epoxy termico permanente, preferire un prodotto elettricamente isolante e accettare che la rimozione sara' difficile.
 
 Forum e vecchie note parlano anche di dissipatori neri con alette tipo vecchi Pentium-I senza ventola. Trattarlo come suggerimento di epoca/forum, non come parte obbligatoria: l'importante e' ridurre calore senza stress meccanico o corto.
 
@@ -90,7 +116,8 @@ Un thread Gearspace segnala piste rotte sotto la board dei `5530` dovute a fless
 
 Da comprare o cercare:
 
-- 2 dissipatori adesivi bassi per IC `CEM5530` originali, se restano montati;
+- 2 dissipatori bassi per IC `CEM5530` originali, uno per `U449` e uno per `U425`;
+- 2 pezzi di pad/tape termico tagliati a misura, solo se i dissipatori non hanno adesivo integrato;
 - 2 ricambi `CEM5530` clone, se il budget lo permette e si vuole una riserva reale;
 - socket torniti/tulip di qualita' se si dissaldano i chip o i socket originali sono fragili.
 
@@ -106,6 +133,11 @@ Da non fare:
 - Gearspace, Prophet VS reliability: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability.html`
 - Gearspace, pagina 2 dello stesso thread: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability-2.html`
 - Gearspace, heatsink CEM5530: `https://gearspace.com/board/geekzone/1064015-where-can-i-find-heatsink-cem5530-chips.html`
+- DigiKey, Aavid/Boyd `508700B00000G`: `https://www.digikey.com/en/products/detail/boyd-laconia-llc/508700B00000G/373763`
+- Mouser, Aavid `508700B00000G`: `https://www.mouser.com/ProductDetail/Aavid/508700B00000G?qs=2v7q0MSBcBOClotXj3TAvQ%3D%3D`
+- Farnell, Fischer Elektronik `ICK 40 B`: `https://es.farnell.com/fischer-elektronik/ick-40-b/disipador-de-calor-dip-pegado/dp/4620926`
+- DigiKey, 3M `8810-0.5-5`: `https://www.digikey.com/en/products/detail/3m-tc/8810-0-5-5/2649860`
+- DigiKey, 3M `8810-0.75-5`: `https://www.digikey.com/en/products/detail/3m-tc/8810-0-75-5/2649863`
 - Straylight Engineering, update Jan 2023: `https://www.straylightengineering.com/update-jan-2023/`
 - Straylight Engineering, vecchia pagina clone 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
 - Synthelectro ELD5530 / CEM5530 replacement: `https://synthelectro-fr.blogspot.com/2014/06/`

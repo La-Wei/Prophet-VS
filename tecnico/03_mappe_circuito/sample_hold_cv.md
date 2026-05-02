@@ -7,6 +7,7 @@ Mappa di lavoro per diagnosi e lettura incrociata. Le affermazioni sotto derivan
 - [pvs_service pagina 6](../05_pagine_rilevanti/note/pvs_service/page_006.md)
 - [pvs_service pagina 9](../05_pagine_rilevanti/note/pvs_service/page_009.md)
 - [5530 pagina 1](../05_pagine_rilevanti/note/5530/page_001.md)
+- [5530 pagina 2](../05_pagine_rilevanti/note/5530/page_002.md)
 - [5530 pagina 3](../05_pagine_rilevanti/note/5530/page_003.md)
 - [5530 pagina 4](../05_pagine_rilevanti/note/5530/page_004.md)
 - [CEM5530: diagnosi, ricambi e dissipazione](../01_problemi_e_fix/cem5530_diagnosi_ricambi.md)
@@ -15,7 +16,7 @@ Mappa di lavoro per diagnosi e lettura incrociata. Le affermazioni sotto derivan
 ## Componenti importanti
 U449/U425 CEM5530, DAC/U451 6012, U453/U454 HC174 e concetti CEM5530/5508 per hold, droop e timing.
 
-Nota pratica: `U449/U425` sono anche componenti storicamente fragili; prima di sostituirli controllare rail/timing/socket/piste, e valutare dissipatori o cloni solo con conferma strumentale.
+Nota pratica: `U449/U425` sono anche componenti storicamente fragili; prima di sostituirli controllare rail/timing/socket/piste, e valutare dissipatori o cloni solo con conferma strumentale. Per i dissipatori sui due `CEM5530`, usare due pezzi bassi, circa `50-51 x 13-14 x 5 mm`, con pad/tape termico se non integrato; dettagli e link sono in `../01_problemi_e_fix/cem5530_diagnosi_ricambi.md`.
 
 ## Rail importanti
 +12V, -12V, +8V, +5.6V, -5V, +5VD, VDD/VSS/VREF.
