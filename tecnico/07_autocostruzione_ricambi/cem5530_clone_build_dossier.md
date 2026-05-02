@@ -9,11 +9,14 @@ Non ho trovato schemi, Gerber, PCB layout o BOM pubblici e verificabili per `ELD
 Quello che risulta dalle fonti:
 
 - `ELD5530` e' un modulo sostitutivo, non un `CEM5530` originale modificato.
-- La pagina Synthelectro 2014 descrive una versione 2 basata su IC Maxim Integrated, con gestione alimentazioni integrata e inserimento diretto al posto del `CEM5530`.
-- Gearspace cita una clonazione tramite Maxim `MAX5167` e riporta che qualcuno intendeva rimettere online gli schemi, ma non ho trovato quegli schemi pubblicati.
+- La pagina Synthelectro 2014 descrive una versione 2 basata su IC Maxim Integrated, con gestione alimentazioni integrata e inserimento diretto al posto del `CEM5530`; la sigla dell'IC Maxim non viene pubblicata li.
+- La stessa pagina dice che la prima versione richiedeva due modifiche minori sulla board perche' non gestiva tutte le alimentazioni, mentre la versione 2 fornisce direttamente le tensioni necessarie.
+- Gearspace cita una clonazione tramite Maxim `MAX5167` e riporta che qualcuno intendeva rimettere online gli schemi, ma non ho trovato quegli schemi pubblicati. Quindi `MAX5167` e' la pista tecnica piu plausibile, non una conferma ufficiale della BOM ELD5530.
 - Nello stesso thread viene chiesto a Eric Penot di rilasciare specifiche complete/open source, ma non ho trovato evidenza che siano state pubblicate.
 - Straylight descrive un proprio modulo `CEM5530` a PCB 4 layer prodotto in fabbrica, ma non pubblica schema o file di produzione.
 - Le vecchie alternative citate nei forum includono board basate su `SSM2300` e board basate su `PD508/CEM5508`, ma anche qui senza file di progetto pubblici.
+
+Nota batteria: la pagina Synthelectro 2015 cita sia mod SRAM non volatile sia due `ELD5530` nello stesso Prophet VS. Solo la mod SRAM non volatile elimina la batteria; `ELD5530` non riguarda la memoria patch. Vedere `../01_problemi_e_fix/batteria_memoria_nvram.md`.
 
 Conclusione operativa: questo non e' un progetto pronto da mandare in produzione. E' un dossier per permettere a un tecnico/progettista di ricostruire un modulo con metodo, oppure di valutare un modulo acquistato.
 
@@ -34,6 +37,20 @@ Datasheet esterni da scaricare/verificare:
 - Analog Devices `MAX5167L` product page: `https://www.analog.com/en/products/max5167l.html`
 - Analog Devices `SSM2300`: `https://www.analog.com/en/products/ssm2300.html`
 - Analog Devices `SSM2300` obsolete datasheet: `https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/ssm2300.pdf`
+
+## Fatti primari dal post Synthelectro 2014
+
+Il post Synthelectro 2014 e' la fonte migliore per descrivere `ELD5530` senza mischiarlo con la mod memoria/batteria:
+
+- `CEM5530` e' descritto come interfaccia tra processore digitale e generazione analogica;
+- ogni `CEM5530` viene paragonato a `30` potenziometri comandati dal processore;
+- il Prophet VS usa due `CEM5530`, per `60` segnali di controllo totali;
+- lo Studio 440 usa un solo `CEM5530`;
+- sul Prophet VS le posizioni sono `U449` e `U425`;
+- la prima scheda sostitutiva richiedeva due modifiche minori sulla board per le alimentazioni;
+- `ELD5530 V2` integra quelle alimentazioni e viene presentato come ricambio plug-in;
+- i socket originali del Prophet VS sono indicati come double-lyre, meno affidabili dei tulip, con rischio rottura delle zampe/saldature;
+- nella foto Synthelectro, originale e ricambio sono mostrati nello stesso verso, con pin 1 in basso a sinistra. Usare questa informazione solo insieme alla serigrafia reale.
 
 ## Requisito funzionale
 
@@ -63,9 +80,11 @@ Prima di disegnare una PCB, compilare una tabella pin-to-pin reale partendo dall
 
 ## Architettura A: `MAX5167`
 
-E' l'architettura piu vicina a quanto viene attribuito a `ELD5530`.
+E' l'architettura piu vicina a quanto viene attribuito a `ELD5530`, ma va trattata come ipotesi tecnica: Synthelectro conferma "Maxim Integrated", non la sigla `MAX5167`.
 
 Il `MAX5167` e' un sample & hold a `32` canali con ingresso multiplexato, 5 linee address, controllo sample/hold, uscite `OUT0..OUT31`, alimentazione analogica positiva/negativa e alimentazione logica separata. Questo lo rende concettualmente adatto a sostituire un `CEM5530` a `30` canali, ma solo tramite una schedina adattatrice.
+
+Per la prosecuzione concreta della pista `MAX5167`, usare il progetto preliminare dedicato `max5167_v2_like_pre_design.md` e poi la cartella Rev A prototipo `rev_a_max5167_prototipo/`.
 
 Punti da progettare/verificare:
 
@@ -173,7 +192,8 @@ Thank you.
 
 ## Fonti
 
-- Synthelectro, post 2014 `Remplacement du CEM5530 pour Prophet VS & Studio 440`: `https://synthelectro-fr.blogspot.com/2014/06/`
+- Synthelectro, post 2014 `Remplacement du CEM5530 pour Prophet VS & Studio 440`: `https://synthelectro-fr.blogspot.com/2014/06/cem5530-pour-prophet-vs-studio-440.html`
+- Synthelectro, archivio giugno 2014 con lo stesso post: `https://synthelectro-fr.blogspot.com/2014/06/`
 - Synthelectro, post 2015 con due `ELD5530`: `https://synthelectro-fr.blogspot.com/2015/07/how-to-upgrade-programm-memory-of.html`
 - Gearspace, discussione affidabilita Prophet VS e cloni `CEM5530`: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability.html`
 - Gearspace, pagina 2 stessa discussione: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability-2.html`

@@ -28,6 +28,8 @@ Se la modulazione sembra seguire patch/LFO/envelope, partire da CV e S&H prima d
 | Sorgente | Pagina | Immagine | Nota | Perche importante | Ispezionare per primo |
 | --- | --- | --- | --- | --- | --- |
 | `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md` | dossier | n/a | `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md` | Stato reale schemi ELD5530, architetture `MAX5167`, `SSM2300`, `PD508/CEM5508` e test minimi | Non esistono Gerber/BOM pubblici verificati; usare come brief di progettazione |
+| `../07_autocostruzione_ricambi/max5167_v2_like_pre_design.md` | progetto preliminare | n/a | `../07_autocostruzione_ricambi/max5167_v2_like_pre_design.md` | Pista `MAX5167` portata a pin mapping, rail locali, vincoli PCB e piano test | Non PCB-ready: verificare timing, carichi e spazio sulla macchina reale |
+| `../07_autocostruzione_ricambi/rev_a_max5167_prototipo/README.md` | prototipo Rev A | n/a | `../07_autocostruzione_ricambi/rev_a_max5167_prototipo/README.md` | Schema testuale, netlist CSV, BOM funzionale, vincoli PCB e collaudo per prototipo `MAX5167` | Prototipo non validato: non montare senza test fuori macchina |
 | `../06_pdf_originali/5530.pdf` | 2 | `../05_pagine_rilevanti/immagini/5530/page_002.png` | `../05_pagine_rilevanti/note/5530/page_002.md` | Pinout da ricavare manualmente prima di qualsiasi clone | Pin 1, 40 pin, output e rail |
 | `../06_pdf_originali/5530.pdf` | 3-4 | `../05_pagine_rilevanti/immagini/5530/page_003.png` | `../05_pagine_rilevanti/note/5530/page_003.md` | Alimentazioni, swing, timing `INH`, droop e acquisition | Rail e timing reali da misurare su `U449/U425` |
 | `../06_pdf_originali/component_datasheets/README.md` | link datasheet | n/a | `../06_pdf_originali/component_datasheets/README.md` | Link ufficiali `MAX5167` e `SSM2300` per lavoro offline/manuale | Scaricare datasheet esterni se si progetta una scheda |
@@ -42,6 +44,16 @@ Se la modulazione sembra seguire patch/LFO/envelope, partire da CV e S&H prima d
 | `../06_pdf_originali/sci_prophet_vs_ecr739.pdf` | 4 | `../05_pagine_rilevanti/immagini/sci_prophet_vs_ecr739/page_004.png` | `../05_pagine_rilevanti/note/sci_prophet_vs_ecr739/page_004.md` | ECR739 pressure/power/reset su keyboard board | Rete `U310` e valori resistenze, `SENSOR/PRESSURE` |
 
 Non assumere che ECR738/ECR739 siano presenti: verificarle fisicamente sulla macchina.
+
+## 3b. Batteria memoria / SRAM / patch
+
+| Sorgente | Pagina | Immagine | Nota | Perche importante | Ispezionare per primo |
+| --- | --- | --- | --- | --- | --- |
+| `batteria_memoria_nvram.md` | nota locale | n/a | `batteria_memoria_nvram.md` | Chiarisce che `ELD5530` non elimina la batteria: la mod senza batteria e' una modifica separata alle SRAM patch | Stato batteria, polarita', corrosione, backup patch/SysEx e tipo SRAM montate |
+| `../06_pdf_originali/pvs_service.pdf` | board CPU/memoria | n/a | `../05_pagine_rilevanti/note/pvs_service/page_003.md` | Memoria programmi e area CPU da verificare se si lavora su SRAM/batteria | Due SRAM originali, ROM vicine, battery backup e piste corrose |
+| Synthelectro 2015 | post web | n/a | `https://synthelectro-fr.blogspot.com/2015/07/how-to-upgrade-programm-memory-of.html` | Esempio di mod SRAM non volatile: due SRAM `32 Kbytes`, quattro banchi, batteria rimossa | Non confondere con i due `ELD5530` citati nello stesso post |
+
+Se le SRAM originali sono ancora montate, la batteria serve ancora. Se si monta una vera SRAM non volatile compatibile, la batteria puo' essere rimossa.
 
 ## 4. Instabilita alimentazione / rail
 

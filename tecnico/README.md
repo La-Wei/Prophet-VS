@@ -12,10 +12,14 @@ Questa cartella e' pensata per un tecnico che deve diagnosticare un Sequential C
 3. `01_problemi_e_fix/quick_navigation_map.md`
 4. `01_problemi_e_fix/cem5530_diagnosi_ricambi.md`
 5. `07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`
-6. `01_problemi_e_fix/jack_sostituzione.md`
-7. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
-8. `02_checklist_misure/visual_inspection_checklist.md`
-9. `02_checklist_misure/safe_measurement_plan.md`
+6. `07_autocostruzione_ricambi/max5167_v2_like_pre_design.md`
+7. `07_autocostruzione_ricambi/rev_a_max5167_prototipo/README.md`
+8. `07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`
+9. `01_problemi_e_fix/batteria_memoria_nvram.md`
+10. `01_problemi_e_fix/jack_sostituzione.md`
+11. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
+12. `02_checklist_misure/visual_inspection_checklist.md`
+13. `02_checklist_misure/safe_measurement_plan.md`
 
 ## Identificazione regolatori nella foto
 
@@ -35,7 +39,7 @@ L'ordine sinistra->destra deriva dalla designator map `pvs_service` pagina 5; co
 - `04_componenti_net_rail/`: indici componenti, rail, net e connettori utili.
 - `05_pagine_rilevanti/`: note e immagini delle sole pagine utili.
 - `06_pdf_originali/`: PDF sorgenti principali.
-- `07_autocostruzione_ricambi/`: dossier per valutare cloni/ricostruzione di ricambi non reperibili.
+- `07_autocostruzione_ricambi/`: dossier per valutare cloni/ricostruzione di ricambi non reperibili e prototipo Rev A `MAX5167`.
 - `foto/`: foto utente dell'area regolatori.
 
 PDF inclusi in `06_pdf_originali/`: `pvs_service.pdf`, `sci_prophet_vs_ecr738.pdf`, `sci_prophet_vs_ecr739.pdf`, `5530.pdf`, `5508.pdf`. La sottocartella `06_pdf_originali/component_datasheets/` contiene link ai datasheet esterni `MAX5167` e `SSM2300`.

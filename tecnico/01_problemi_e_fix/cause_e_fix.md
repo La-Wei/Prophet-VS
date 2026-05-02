@@ -15,6 +15,7 @@ Questa e' la pagina da leggere per prima. Non e' una diagnosi certa: e' una list
 | Media | Riparazione precedente / ECR sbagliata | Ispezione di jumper, tagli piste, pad sollevati, valori resistenze | Rifare la riparazione in modo pulito seguendo schema e board reale |
 | Media | Jack output/footswitch rotti o normalizzazione ossidata | I 4 jack posteriori hanno plastica rotta; verificare tip/ring/sleeve/switch e footprint | Sostituire tutti e 4 i jack; vedi `jack_sostituzione.md` e `pannello_posteriore_ricambi.md` |
 | Media | Porta/selettore `MIDI OUT/THRU` rugginoso | Verificare se e' la presa DIN, un piccolo slide switch `OUT/THRU`, o entrambi; test MIDI OUT e THRU separati | Pulire solo se recuperabile; se ruggine forte, sostituire presa DIN/switch con stesso footprint; vedi `pannello_posteriore_ricambi.md` |
+| Bassa/media | Batteria memoria scarica, in perdita o SRAM patch corrotte | Salvare/dumpare patch via SysEx, verificare tensione/polarita' batteria, corrosione e tipo SRAM montate; vedi `batteria_memoria_nvram.md` | Se SRAM originali: sostituire batteria corretta. Se mod SRAM non volatile: batteria non necessaria. Non confondere con `ELD5530` |
 
 Prima prova pratica: capire se il bleed e' gia' presente prima del volume oppure nasce dopo. Questo decide se partire da VCA/S&H o da output/chorus.
 
@@ -54,6 +55,7 @@ Nota separazione problemi: il calore dei `CEM5530` e il case caldo nella zona `U
 - `technician_briefing_volume_zero_bleed.md`
 - `quick_navigation_map.md`
 - `cem5530_diagnosi_ricambi.md`
+- `batteria_memoria_nvram.md`
 - `jack_sostituzione.md`
 - `pannello_posteriore_ricambi.md`
 - `../02_checklist_misure/visual_inspection_checklist.md`

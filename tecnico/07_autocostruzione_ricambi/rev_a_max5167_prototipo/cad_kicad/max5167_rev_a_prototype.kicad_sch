@@ -1,0 +1,63 @@
+(kicad_sch
+  (version 20230121)
+  (generator "codex")
+  (uuid "11111111-2222-3333-4444-555555555555")
+  (paper "A3")
+  (title_block
+    (title "MAX5167 Rev A CEM5530 Replacement Prototype")
+    (date "2026-05-02")
+    (rev "A PROTOTYPE - NOT VALIDATED")
+    (company "Prophet VS technician package")
+    (comment 1 "This is a KiCad starting point, not production CAD.")
+    (comment 2 "Do not generate Gerbers before schematic, footprint, ERC, DRC and bench-test review.")
+    (comment 3 "Use ../02_netlist_pinmap_rev_a.csv and ../01_schema_testuale_rev_a.md as binding sources.")
+  )
+  (text "REV A PROTOTYPE - NOT VALIDATED"
+    (at 20 20 0)
+    (effects (font (size 4 4) (bold yes)) (justify left))
+    (uuid "22222222-2222-3333-4444-555555555555")
+  )
+  (text "Practical meaning: this is not a modified chip. It is a small adapter PCB that plugs into the CEM5530 socket and carries a MAX5167 plus local rails."
+    (at 20 32 0)
+    (effects (font (size 2 2)) (justify left))
+    (uuid "22222222-2222-3333-4444-555555555556")
+  )
+  (text "J1 CEM5530 socket side, 40 pins: VIN, INH, A0..A4, CV0..CV29, VDD_IN, VSS_IN, GND_IN. Confirm pin 1 and mechanical width on the real Prophet VS."
+    (at 20 46 0)
+    (effects (font (size 2 2)) (justify left))
+    (uuid "22222222-2222-3333-4444-555555555557")
+  )
+  (text "U1 MAX5167 side, 48-TQFP: IN, S/H, ADDR0..ADDR4, OUT0..OUT31, VDD +10V_A, VSS -5V_A, VL +5V_L, AGND/DGND."
+    (at 20 58 0)
+    (effects (font (size 2 2)) (justify left))
+    (uuid "22222222-2222-3333-4444-555555555558")
+  )
+  (text "Power block: VDD_IN expected about +8V -> filter -> boost/low-noise regulation -> +10V_A. VSS_IN expected about -5V -> filter -> -5V_A. +8V -> LDO -> +5V_L."
+    (at 20 70 0)
+    (effects (font (size 2 2)) (justify left))
+    (uuid "22222222-2222-3333-4444-555555555559")
+  )
+  (text "Logic: CONFIG pull-down to DGND_LOCAL, SELECT pull-up to +5V_L, INH_IN direct to S/H by default. U5 stretcher footprint must remain DNP in initial build."
+    (at 20 82 0)
+    (effects (font (size 2 2)) (justify left))
+    (uuid "22222222-2222-3333-4444-55555555555a")
+  )
+  (text "Outputs: OUT0..OUT29 route through optional series footprints to CEM CV0..CV29. OUT30 and OUT31 are test pads only, never routed to J1."
+    (at 20 94 0)
+    (effects (font (size 2 2)) (justify left))
+    (uuid "22222222-2222-3333-4444-55555555555b")
+  )
+  (text "Before real schematic capture: create symbols for J1/U1/U2/U3/U4/U5, then copy the exact mapping from ../02_netlist_pinmap_rev_a.csv."
+    (at 20 112 0)
+    (effects (font (size 2 2) (italic yes)) (justify left))
+    (uuid "22222222-2222-3333-4444-55555555555c")
+  )
+  (text "Bench-test gates: startup overshoot, VDD-VSS limit, +10V ripple, INH low width, address setup/hold, VIN range, CV load, 60 minute thermal run."
+    (at 20 124 0)
+    (effects (font (size 2 2) (italic yes)) (justify left))
+    (uuid "22222222-2222-3333-4444-55555555555d")
+  )
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

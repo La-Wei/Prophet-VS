@@ -4,6 +4,12 @@
 
 I 4 jack 1/4" posteriori hanno plastica rotta: sostituirli tutti.
 
+Foto locali aggiornate:
+
+- `../foto/jack_pcb_01.JPG`
+- `../foto/jack_pcb_02.JPG`
+- `../foto/midi_din_originale_01.JPG`
+
 Ricambio candidato:
 
 - Jalco `YKB21-5078`
@@ -14,7 +20,12 @@ Ricambio candidato:
 
 Link sorgente: `https://www.synth-parts.com/en/products/connectors-and-cable/14-phone-jack/5460/ykb21-5078-phone-jack-1/4-6.3-mm-for-printed-circuits-stereo`
 
-Compra: 4 pezzi, piu eventuali dadi `M12x1`.
+Jack mono Synth-Parts, solo se i footswitch risultano davvero mono e con footprint diverso:
+
+- Jalco `YKB21-5076`, mono con switch, PCB, filetto `M12x1`: `https://www.synth-parts.com/en/products/connectors-and-cable/14-phone-jack/5475/ykb21-5076-phone-jack-1/4-6.3-mm-pcb-mono`
+- Jalco `YKB21-5012`, mono con switch, PCB, filetto `M12x1`: `https://www.synth-parts.com/en/products/connectors-and-cable/14-phone-jack/5461/ykb21-5012-phone-jack-1/4-6.3-mm-for-printed-circuits-mono`
+
+Compra: se tutti e 4 i footprint sono uguali, 4 pezzi `YKB21-5078`; se i due footswitch sono footprint mono, 2 stereo `YKB21-5078` piu 2 mono da scegliere tra `YKB21-5076`/`YKB21-5012` dopo misure.
 
 ## Porta/selettore MIDI OUT/THRU
 
@@ -43,24 +54,56 @@ Se e' arrugginita la presa DIN femmina:
 2. ispezionare pin, schermatura metallica, saldature e piazzole;
 3. se la ruggine e' estesa o i contatti sono instabili, sostituire la presa.
 
+Aggiornamento dalle foto: `../foto/midi_din_originale_01.JPG` mostra una presa DIN 5 poli diversa dai ricambi Jalco PCB gia linkati. Si vede un corpo con inserto rosso/fenolico, contatti lunghi piegati verso la PCB e due flange/orecchie di fissaggio. Quindi `YKF51-5050` e `YKF51-5046` non vanno ordinati come ricambi sicuri.
+
 Il service non basta per garantire il footprint meccanico dei DIN. Prima di ordinare bisogna guardare la board reale e capire se i MIDI sono:
 
 1. un blocco triplo integrato, tre DIN in un solo corpo;
 2. tre prese DIN singole separate;
-3. una variante ruotata o con pinout diverso.
+3. una DIN panel/chassis mount con terminali lunghi piegati/saldati in PCB, come sembra dalla nuova foto;
+4. una variante ruotata o con pinout diverso.
 
 Ricambi candidati, da confermare fisicamente:
 
-- se e' un blocco triplo: Jalco `YKF51-5046`, triple female MIDI DIN socket for PCB;
-- se sono singoli: Jalco `YKF51-5050` o altra presa DIN femmina 5 poli PCB con stesso footprint, stessa altezza e stessa distanza pannello.
+- se e' un blocco triplo: Jalco `YKF51-5046`, triple female MIDI DIN socket for PCB, ma le foto nuove non puntano a questa soluzione;
+- se sono singoli PCB moderni: Jalco `YKF51-5050` o `BCTE5P1-5211`, ma le foto nuove non sembrano combaciare;
+- se e' come in foto: cercare una DIN femmina 5 poli `180 degree`, panel/chassis mount o PCB right-angle con flange, terminali solder/PC lunghi e stessa geometria.
 
 Fonti ricambio:
 
 - `https://www.synth-parts.com/en/products/connectors-and-cable/din-sockest-and-plugs/6651/e-mu-triple-female-midi-socket-for-pcb-jalco-ykf51-5046`
 - `https://www.synth-parts.com/en/products/connectors-and-cable/din-sockest-and-plugs/6721/din-female-5-pin-midi-for-pcb-ykf51-5050`
+- `https://www.synth-parts.com/en/products/connectors-and-cable/din-sockest-and-plugs/5442/din-female-5-pin-midi-for-printed-circuits`
 - `https://www.synth-parts.com/en/products/connectors-and-cable/din-sockest-and-plugs/`
 
-Nota importante: `YKF51-5046` e' venduto per E-Mu/Korg/Roland/Yamaha, non come ricambio Prophet VS specifico. Il venditore avvisa che esistono versioni ruotate di 180 gradi. Non comprarlo come "sicuro" senza foto e misura della board reale.
+Nota importante: i link Synth-Parts sopra sono ora **solo confronto**, non ricambio confermato per il Prophet VS fotografato. Dalle foto bisogna cercare un ricambio con stessa meccanica, non solo "DIN MIDI 5 pin".
+
+### Pista MIDI piu concreta dopo le foto
+
+La pista piu concreta non e' Synth-Parts/Jalco, ma una DIN femmina 5 poli `180 degree` di famiglia Switchcraft DIN panel/PC mount.
+
+Candidati Switchcraft da confrontare per primi:
+
+- `57NC5FX`: DIN panel mount, 5 contatti a 180 gradi, terminali PC/thru-hole. E' il candidato piu interessante se il tecnico vuole terminali da PCB.
+- `57GB5FX`: DIN panel mount, 5 contatti a 180 gradi, terminali solder cup/flared solder. E' interessante se l'originale ha terminali lunghi/saldabili da formare verso la PCB.
+- `57PC5F`: DIN femmina right-angle PC mount, 5 contatti a 180 gradi, contact arrangement F. Da confrontare se serve un corpo piu "PCB right-angle" invece del panel mount classico.
+
+Link utili:
+
+- `https://www.switchcraft.com/din-panel-mount-connector-5-contacts-at-180-pc-terminals/57nc5fx/`
+- `https://www.switchcraft.com/din-panel-mount-connector-5-contacts-at-180-/57gb5fx/`
+- `https://www.switchcraft.com/female-din-right-angle-pc-mount-5-contacts-at-180-contact-arrangement-f/57pc5f/`
+
+Verdetto operativo: prima misurare/interfacciare con questi tre datasheet/foto. Se uno combacia per flange, altezza e pattern terminali, quello diventa il ricambio MIDI preferito. Se non combacia, si cerca ancora, ma almeno si e' nella famiglia giusta.
+
+Candidati/famiglie da confrontare fuori Synth-Parts:
+
+- Switchcraft `57GB5FX`: DIN femmina 5 contatti 180 gradi, panel mount, usata per MIDI, `https://www.performanceaudio.com/products/switchcraft-57gb5fx-5-pin-din-panel-mount-jack`;
+- Lumberg `0105 05`: DIN 5 poli right-angle/PCB chassis socket, `https://cpc.farnell.com/lumberg/0105-05/din-connector-rcpt-5pos-chassis/dp/CN25115`;
+- Hirschmann `MAB 5 SH`: DIN 5 poli PCB right-angle, `https://uk.farnell.com/hirschmann/mab-5-sh/socket-din-pcb-5pin/dp/1944987`;
+- Deltron `671-0501`: DIN 5 poli female PCB right-angle, `https://no.rs-online.com/web/p/din-connectors/1806737`.
+
+Questi sono candidati di ricerca: non comprarli senza misurare distanza fori, altezza rispetto al pannello, forma flange, orientamento pin e pattern dei terminali.
 
 ## Se e' il piccolo switch `MIDI OUT/THRU`
 
@@ -106,12 +149,13 @@ Questi non sono l'oggetto indicato dall'utente, ma se risultano rugginosi vanno 
 
 Da comprare subito se il footprint jack e' confermato:
 
-- 4 x Jalco `YKB21-5078`
+- 4 x Jalco `YKB21-5078`, se tutti e 4 i jack hanno stesso footprint stereo/switch
+- oppure 2 x `YKB21-5078` + 2 x mono `YKB21-5076`/`YKB21-5012`, se i footswitch sono davvero footprint mono
 - dadi `M12x1` di scorta, se non inclusi o se quelli originali sono ossidati
 
 Da comprare solo dopo foto/misura:
 
-- MIDI DIN triplo `YKF51-5046` oppure tre DIN singoli 5 poli equivalenti;
+- MIDI DIN: non comprare `YKF51-5050`/`YKF51-5046` come sicuri; dalle foto serve probabilmente DIN femmina 5 poli panel/PCB right-angle con flange e terminali lunghi. Prima confrontare Switchcraft `57NC5FX`, `57GB5FX`, `57PC5F`;
 - eventuale slide switch `MIDI OUT/THRU` SP3T/right-angle con footprint identico.
 
 Da non fare:

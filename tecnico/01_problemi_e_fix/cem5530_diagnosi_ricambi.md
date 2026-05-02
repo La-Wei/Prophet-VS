@@ -46,6 +46,7 @@ Opzioni da considerare, in ordine pratico. Il Prophet VS usa due moduli/chip: un
    - disponibilita' citata nel 2023: `https://www.straylightengineering.com/update-jan-2023/`
    - vecchia pagina progetto/design 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
 2. `ELD5530` di Eric Penot / Synthelectro: clone storico specifico per Prophet VS e Studio 440. Non ho trovato una pagina carrello o "buy now" attiva; questi sono quindi link di informazione/contatto col produttore originale, non un negozio automatico:
+   - permalink del post Synthelectro 2014: `https://synthelectro-fr.blogspot.com/2014/06/cem5530-pour-prophet-vs-studio-440.html`
    - pagina archivio Synthelectro con il post "Remplacement du CEM5530 pour Prophet VS & Studio 440.", lunedi' 2 giugno 2014: `https://synthelectro-fr.blogspot.com/2014/06/`
    - post 2015 con Prophet VS aggiornato e due `ELD5530`: `https://synthelectro-fr.blogspot.com/2015/07/how-to-upgrade-programm-memory-of.html`
    - email pubblicata da Synthelectro nei commenti del post 2015 per richieste: `synthelectro@netcourrier.com`
@@ -55,20 +56,33 @@ Opzioni da considerare, in ordine pratico. Il Prophet VS usa due moduli/chip: un
 
 Nota importante: non ho trovato un prodotto `CEM5530` su Electric Druid. La sigla corretta da chiedere/cercare e' `ELD5530`, legata a Synthelectro/Eric Penot.
 
+Nota batteria: i due `ELD5530` citati nel post Synthelectro 2015 non eliminano la batteria memoria. La batteria sparisce solo con la modifica separata alle SRAM non volatili; vedere `batteria_memoria_nvram.md`.
+
 ### Cosa sono davvero gli `ELD5530`
 
 Gli `ELD5530` non sono `CEM5530` originali modificati. Sono moduli/adattatori sostitutivi che usano almeno un IC sample & hold commerciale moderno al posto del Curtis originale.
 
-La fonte forum cita esplicitamente una clonazione del `CEM5530` con un Maxim `MAX5167`. Il datasheet Maxim/Analog Devices descrive il `MAX5167` come sample & hold a `32` canali con ingresso multiplexato, quindi e' molto vicino al ruolo del `CEM5530` nel Prophet VS, che usa `30` canali per chip. La pagina Synthelectro dice anche che la versione 2 del ricambio e' basata su IC Maxim Integrated e include la gestione delle alimentazioni necessarie.
+La fonte primaria Synthelectro 2014 corregge il quadro:
+
+- la versione 2 del ricambio e' basata su un IC Maxim Integrated, ma la sigla dell'IC non viene pubblicata nella pagina;
+- la prima versione era gia' una scheda che si inseriva al posto del `CEM5530`, ma non gestiva tutte le alimentazioni e richiedeva due piccole modifiche sulla board del Prophet VS o dello Studio 440;
+- la versione 2 integra la generazione/gestione delle tensioni necessarie, quindi viene presentata come sostituzione plug-in del `CEM5530` guasto;
+- nel Prophet VS i due `CEM5530` sono `U449` e `U425`; nello Studio 440 ce n'e' uno;
+- Synthelectro segnala anche che i socket originali Prophet VS sono double-lyre, non tulip, e possono rompersi a livello saldature.
+
+La fonte forum cita esplicitamente una clonazione del `CEM5530` con un Maxim `MAX5167`; questo resta quindi una deduzione/indizio esterno, non una sigla confermata da Synthelectro. Il datasheet Maxim/Analog Devices descrive il `MAX5167` come sample & hold a `32` canali con ingresso multiplexato, quindi e' molto vicino al ruolo del `CEM5530` nel Prophet VS, che usa `30` canali per chip.
 
 Tradotto per il tecnico:
 
 - non si prende un `MAX5167` e lo si infila direttamente al posto del `CEM5530`;
 - serve una schedina che adatti pinout, alimentazioni, segnali di controllo, output usati/non usati e orientamento;
+- se si trova un vero `ELD5530 V2`, l'idea e' rimuovere il `CEM5530` difettoso e inserire il modulo, confermando pin 1 e altezza prima di accendere;
 - se il tecnico ha schema, PCB/Gerber, BOM e IC corretti puo' teoricamente costruirli;
 - senza file di progetto conviene comprare moduli gia' fatti o chiedere a Synthelectro/Straylight, perche' rifarli diventa un lavoro di progettazione e test, non una normale riparazione.
 
 Per la ricostruzione da zero, vedere anche il dossier dedicato: `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`.
+
+Per contatti, priorita' e email pronte da mandare, vedere `../07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`.
 
 Messaggio pratico da mandare a Straylight:
 
@@ -194,5 +208,6 @@ Da non fare:
 - Straylight Engineering, prezzo storico `CEM5530` clone 2020: `https://www.straylightengineering.com/what-a-year/`
 - Straylight Engineering, update Jan 2023: `https://www.straylightengineering.com/update-jan-2023/`
 - Straylight Engineering, vecchia pagina clone 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
-- Synthelectro ELD5530 / CEM5530 replacement: `https://synthelectro-fr.blogspot.com/2014/06/`
+- Synthelectro ELD5530 / CEM5530 replacement: `https://synthelectro-fr.blogspot.com/2014/06/cem5530-pour-prophet-vs-studio-440.html`
+- Synthelectro archivio giugno 2014 con lo stesso post: `https://synthelectro-fr.blogspot.com/2014/06/`
 - Synthelectro Prophet VS memory upgrade con due `ELD5530`: `https://synthelectro-fr.blogspot.com/2015/07/how-to-upgrade-programm-memory-of.html`

@@ -1,0 +1,89 @@
+Section,Ref,Pin,Signal,Connects_to,Default_populate,Notes
+CEM,J1,1,VIN_IN,U1 pin 11 IN via RIN1,yes,RIN1 default 0R; 100R option
+CEM,J1,2,CV0,U1 pin 14 OUT0 via R_OUT0,yes,default 0R
+CEM,J1,3,CV1,U1 pin 15 OUT1 via R_OUT1,yes,default 0R
+CEM,J1,4,CV2,U1 pin 16 OUT2 via R_OUT2,yes,default 0R
+CEM,J1,5,CV3,U1 pin 17 OUT3 via R_OUT3,yes,default 0R
+CEM,J1,6,CV4,U1 pin 18 OUT4 via R_OUT4,yes,default 0R
+CEM,J1,7,CV5,U1 pin 19 OUT5 via R_OUT5,yes,default 0R
+CEM,J1,8,CV6,U1 pin 20 OUT6 via R_OUT6,yes,default 0R
+CEM,J1,9,CV7,U1 pin 21 OUT7 via R_OUT7,yes,default 0R
+CEM,J1,10,INH_IN,U1 pin 5 S/H via RN_LOGIC/JP1,yes,default DIRECT
+CEM,J1,11,A4_IN,U1 pin 3 ADDR4 via RN_LOGIC,yes,0R or 47R
+CEM,J1,12,CV8,U1 pin 22 OUT8 via R_OUT8,yes,default 0R
+CEM,J1,13,CV9,U1 pin 23 OUT9 via R_OUT9,yes,default 0R
+CEM,J1,14,CV10,U1 pin 24 OUT10 via R_OUT10,yes,default 0R
+CEM,J1,15,CV11,U1 pin 25 OUT11 via R_OUT11,yes,default 0R
+CEM,J1,16,CV12,U1 pin 26 OUT12 via R_OUT12,yes,default 0R
+CEM,J1,17,CV13,U1 pin 27 OUT13 via R_OUT13,yes,default 0R
+CEM,J1,18,CV14,U1 pin 28 OUT14 via R_OUT14,yes,default 0R
+CEM,J1,19,CV15,U1 pin 29 OUT15 via R_OUT15,yes,default 0R
+CEM,J1,20,VSS_IN,FB2 to -5V_A,yes,measure actual rail before install
+CEM,J1,21,GND_IN,AGND_LOCAL/DGND_LOCAL star point,yes,single local join
+CEM,J1,22,CV16,U1 pin 31 OUT16 via R_OUT16,yes,default 0R
+CEM,J1,23,CV17,U1 pin 32 OUT17 via R_OUT17,yes,default 0R
+CEM,J1,24,CV18,U1 pin 33 OUT18 via R_OUT18,yes,default 0R
+CEM,J1,25,CV19,U1 pin 34 OUT19 via R_OUT19,yes,default 0R
+CEM,J1,26,CV20,U1 pin 35 OUT20 via R_OUT20,yes,default 0R
+CEM,J1,27,CV21,U1 pin 36 OUT21 via R_OUT21,yes,default 0R
+CEM,J1,28,CV22,U1 pin 37 OUT22 via R_OUT22,yes,default 0R
+CEM,J1,29,CV23,U1 pin 38 OUT23 via R_OUT23,yes,default 0R
+CEM,J1,30,A0_IN,U1 pin 47 ADDR0 via RN_LOGIC,yes,0R or 47R
+CEM,J1,31,A1_IN,U1 pin 48 ADDR1 via RN_LOGIC,yes,0R or 47R
+CEM,J1,32,A2_IN,U1 pin 1 ADDR2 via RN_LOGIC,yes,0R or 47R
+CEM,J1,33,A3_IN,U1 pin 2 ADDR3 via RN_LOGIC,yes,0R or 47R
+CEM,J1,34,CV24,U1 pin 39 OUT24 via R_OUT24,yes,default 0R
+CEM,J1,35,CV25,U1 pin 40 OUT25 via R_OUT25,yes,default 0R
+CEM,J1,36,CV26,U1 pin 41 OUT26 via R_OUT26,yes,default 0R
+CEM,J1,37,CV27,U1 pin 42 OUT27 via R_OUT27,yes,default 0R
+CEM,J1,38,CV28,U1 pin 43 OUT28 via R_OUT28,yes,default 0R
+CEM,J1,39,CV29,U1 pin 44 OUT29 via R_OUT29,yes,default 0R
+CEM,J1,40,VDD_IN,FB1/F1 to +8V_FILT,yes,measure actual rail before install
+MAX,U1,1,ADDR2,A2_IN via RN_LOGIC,yes,
+MAX,U1,2,ADDR3,A3_IN via RN_LOGIC,yes,
+MAX,U1,3,ADDR4,A4_IN via RN_LOGIC,yes,
+MAX,U1,4,SELECT,+5V_L via RSEL 10k,yes,CONFIG low makes SELECT active-high
+MAX,U1,5,S/H,INH_IN via JP1 DIRECT,yes,high hold low sample
+MAX,U1,6,CONFIG,DGND_LOCAL via RCFG 10k,yes,
+MAX,U1,7,VL,+5V_L,yes,decouple close to pin
+MAX,U1,8,DGND,DGND_LOCAL,yes,join to AGND at local star
+MAX,U1,9,VSS,-5V_A,yes,decouple close to pin
+MAX,U1,10,AGND,AGND_LOCAL,yes,join to DGND at local star
+MAX,U1,11,IN,VIN_IN via RIN1,yes,
+MAX,U1,12,CH,+10V_A via 0R,yes,clamp high
+MAX,U1,13,CL,-5V_A via 0R,yes,clamp low
+MAX,U1,14,OUT0,CV0 via R_OUT0,yes,
+MAX,U1,15,OUT1,CV1 via R_OUT1,yes,
+MAX,U1,16,OUT2,CV2 via R_OUT2,yes,
+MAX,U1,17,OUT3,CV3 via R_OUT3,yes,
+MAX,U1,18,OUT4,CV4 via R_OUT4,yes,
+MAX,U1,19,OUT5,CV5 via R_OUT5,yes,
+MAX,U1,20,OUT6,CV6 via R_OUT6,yes,
+MAX,U1,21,OUT7,CV7 via R_OUT7,yes,
+MAX,U1,22,OUT8,CV8 via R_OUT8,yes,
+MAX,U1,23,OUT9,CV9 via R_OUT9,yes,
+MAX,U1,24,OUT10,CV10 via R_OUT10,yes,
+MAX,U1,25,OUT11,CV11 via R_OUT11,yes,
+MAX,U1,26,OUT12,CV12 via R_OUT12,yes,
+MAX,U1,27,OUT13,CV13 via R_OUT13,yes,
+MAX,U1,28,OUT14,CV14 via R_OUT14,yes,
+MAX,U1,29,OUT15,CV15 via R_OUT15,yes,
+MAX,U1,30,VDD,+10V_A,yes,decouple close to pin
+MAX,U1,31,OUT16,CV16 via R_OUT16,yes,
+MAX,U1,32,OUT17,CV17 via R_OUT17,yes,
+MAX,U1,33,OUT18,CV18 via R_OUT18,yes,
+MAX,U1,34,OUT19,CV19 via R_OUT19,yes,
+MAX,U1,35,OUT20,CV20 via R_OUT20,yes,
+MAX,U1,36,OUT21,CV21 via R_OUT21,yes,
+MAX,U1,37,OUT22,CV22 via R_OUT22,yes,
+MAX,U1,38,OUT23,CV23 via R_OUT23,yes,
+MAX,U1,39,OUT24,CV24 via R_OUT24,yes,
+MAX,U1,40,OUT25,CV25 via R_OUT25,yes,
+MAX,U1,41,OUT26,CV26 via R_OUT26,yes,
+MAX,U1,42,OUT27,CV27 via R_OUT27,yes,
+MAX,U1,43,OUT28,CV28 via R_OUT28,yes,
+MAX,U1,44,OUT29,CV29 via R_OUT29,yes,
+MAX,U1,45,OUT30,TP_OUT30 only,no,do not connect to socket
+MAX,U1,46,OUT31,TP_OUT31 only,no,do not connect to socket
+MAX,U1,47,ADDR0,A0_IN via RN_LOGIC,yes,
+MAX,U1,48,ADDR1,A1_IN via RN_LOGIC,yes,
