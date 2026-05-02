@@ -49,6 +49,13 @@ Link utile se si mantiene la memoria originale a batteria:
 
 - Synth-Parts `Battery 2/3 Solder pins`, Varta `BAVA2-3AHB3`, `3 V`, `1200 mAh`, diametro `17 mm`: `https://www.synth-parts.com/en/products/battery/5181/battery-2/3-solder-pins`
 
+Decisione ordine, aggiornata al 2026-05-02:
+
+- si: ordinarne `1` se il Prophet VS ha ancora le SRAM originali alimentate a batteria;
+- no/non ancora: non serve se il tecnico fa subito una vera mod SRAM non volatile/NVRAM;
+- i moduli `Straylight X5530` trovati non cambiano questa decisione, perche sostituiscono i `CEM5530` e non la memoria patch;
+- la pagina Synth-Parts indica `Actual stock: 4 pcs.`, prezzo `14.28 EUR`, spedizione EU circa `4-14` giorni e attenzione a polarita'/saldatura.
+
 Nota: la pagina Synth-Parts avvisa di controllare la polarita' e che la batteria e' saldata alla scheda. Quindi non va montata "al volo": serve dissaldatura pulita, controllo danni da perdita e orientamento corretto.
 
 ## Nota per diagnosi
