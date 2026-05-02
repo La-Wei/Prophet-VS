@@ -14,12 +14,13 @@ Questa repository contiene materiale preparato per aiutare un tecnico a diagnost
 5. [CEM5530/ELD5530: dossier clone o ricostruzione](tecnico/07_autocostruzione_ricambi/cem5530_clone_build_dossier.md)
 6. [ELD5530 V2-like con MAX5167: progetto preliminare](tecnico/07_autocostruzione_ricambi/max5167_v2_like_pre_design.md)
 7. [Rev A MAX5167: prototipo non validato](tecnico/07_autocostruzione_ricambi/rev_a_max5167_prototipo/README.md)
-8. [Contatti acquisto ELD5530 / CEM5530 replacement](tecnico/07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md)
-9. [Batteria memoria, SRAM e mod senza batteria](tecnico/01_problemi_e_fix/batteria_memoria_nvram.md)
-10. [Jack posteriori](tecnico/01_problemi_e_fix/jack_sostituzione.md)
-11. [Ricambi pannello posteriore](tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md)
-12. [Checklist ispezione](tecnico/02_checklist_misure/visual_inspection_checklist.md)
-13. [Piano misure sicure](tecnico/02_checklist_misure/safe_measurement_plan.md)
+8. [Moduli Straylight X5530 trovati](tecnico/07_autocostruzione_ricambi/straylight_x5530_moduli_trovati.md)
+9. [Contatti acquisto ELD5530 / CEM5530 replacement](tecnico/07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md)
+10. [Batteria memoria, SRAM e mod senza batteria](tecnico/01_problemi_e_fix/batteria_memoria_nvram.md)
+11. [Jack posteriori](tecnico/01_problemi_e_fix/jack_sostituzione.md)
+12. [Ricambi pannello posteriore](tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md)
+13. [Checklist ispezione](tecnico/02_checklist_misure/visual_inspection_checklist.md)
+14. [Piano misure sicure](tecnico/02_checklist_misure/safe_measurement_plan.md)
 
 ## Cartelle
 

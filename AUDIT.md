@@ -12,8 +12,10 @@ Data audit: 2026-05-02
 - Aggiunta nota `batteria_memoria_nvram.md`: `ELD5530` non elimina la batteria; solo una mod SRAM non volatile puo' farlo.
 - Correzione ELD5530 da fonte primaria Synthelectro 2014: V2 confermata su IC Maxim Integrated, ma `MAX5167` resta ipotesi tecnica non BOM ufficiale.
 - Aggiunto file `contatti_acquisto_eld5530_cem5530.md` con destinatari e email inglesi per cercare 2 moduli.
+- Aggiunta nota `straylight_x5530_moduli_trovati.md`: i due moduli in foto sembrano Straylight `X5530`, cloni/ricambi `CEM5530` basati su 4 x `SMP18`.
+- Chiarito che i dissipatori consigliati sono per `CEM5530` originali; sui cloni `X5530` non vanno aggiunti senza misura o istruzione Straylight.
 - Aggiunti link datasheet esterni `MAX5167` e `SSM2300` in `tecnico/06_pdf_originali/component_datasheets/README.md`.
-- Link Markdown controllati: 362 link locali controllati, 0 rotti su 108 file Markdown.
+- Link Markdown controllati: 364 link locali controllati, 0 rotti su 109 file Markdown.
 - Pacchetto tecnico controllato: non contiene prompt, script, OCR grezzo, manifest JSON o cache.
 - Vecchia cartella `doc/prophet_vs_technician_package/`: assente.
 - Cartella consegnabile: `tecnico/`.
@@ -38,12 +40,13 @@ File principali da aprire:
 5. `tecnico/07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`
 6. `tecnico/07_autocostruzione_ricambi/max5167_v2_like_pre_design.md`
 7. `tecnico/07_autocostruzione_ricambi/rev_a_max5167_prototipo/README.md`
-8. `tecnico/07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`
-9. `tecnico/01_problemi_e_fix/batteria_memoria_nvram.md`
-10. `tecnico/01_problemi_e_fix/jack_sostituzione.md`
-11. `tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md`
-12. `tecnico/02_checklist_misure/visual_inspection_checklist.md`
-13. `tecnico/02_checklist_misure/safe_measurement_plan.md`
+8. `tecnico/07_autocostruzione_ricambi/straylight_x5530_moduli_trovati.md`
+9. `tecnico/07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`
+10. `tecnico/01_problemi_e_fix/batteria_memoria_nvram.md`
+11. `tecnico/01_problemi_e_fix/jack_sostituzione.md`
+12. `tecnico/01_problemi_e_fix/pannello_posteriore_ricambi.md`
+13. `tecnico/02_checklist_misure/visual_inspection_checklist.md`
+14. `tecnico/02_checklist_misure/safe_measurement_plan.md`
 
 PDF inclusi:
 

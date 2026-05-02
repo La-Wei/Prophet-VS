@@ -45,6 +45,7 @@ Opzioni da considerare, in ordine pratico. Il Prophet VS usa due moduli/chip: un
    - disponibilita'/prezzo storico 2020: `https://www.straylightengineering.com/what-a-year/`
    - disponibilita' citata nel 2023: `https://www.straylightengineering.com/update-jan-2023/`
    - vecchia pagina progetto/design 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
+   - nota sui due moduli gia trovati: `../07_autocostruzione_ricambi/straylight_x5530_moduli_trovati.md`
 2. `ELD5530` di Eric Penot / Synthelectro: clone storico specifico per Prophet VS e Studio 440. Non ho trovato una pagina carrello o "buy now" attiva; questi sono quindi link di informazione/contatto col produttore originale, non un negozio automatico:
    - permalink del post Synthelectro 2014: `https://synthelectro-fr.blogspot.com/2014/06/cem5530-pour-prophet-vs-studio-440.html`
    - pagina archivio Synthelectro con il post "Remplacement du CEM5530 pour Prophet VS & Studio 440.", lunedi' 2 giugno 2014: `https://synthelectro-fr.blogspot.com/2014/06/`
@@ -82,6 +83,8 @@ Tradotto per il tecnico:
 
 Per la ricostruzione da zero, vedere anche il dossier dedicato: `../07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`.
 
+Aggiornamento: sono stati trovati due moduli `Straylight Engineering X5530` con quattro `SMP18` per scheda. Sembrano due cloni/ricambi `CEM5530` gia pronti; prima di comprare altro farli verificare al tecnico. Vedere `../07_autocostruzione_ricambi/straylight_x5530_moduli_trovati.md`.
+
 Per contatti, priorita' e email pronte da mandare, vedere `../07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`.
 
 Messaggio pratico da mandare a Straylight:
@@ -113,6 +116,8 @@ Thank you.
 ## Dissipatori e temperatura
 
 Nei forum sul Prophet VS ricorre lo stesso consiglio: i `CEM5530` scaldano e conviene aggiungere un piccolo dissipatore sui chip originali.
+
+Nota importante: questa sezione riguarda i `CEM5530` originali in package lungo `40` pin. Non applicare automaticamente gli stessi dissipatori ai moduli clone `Straylight X5530`: quei moduli usano quattro `SMP18` SOIC distribuiti sulla scheda e vanno prima misurati/verificati. Vedere `../07_autocostruzione_ricambi/straylight_x5530_moduli_trovati.md`.
 
 Il datasheet/pinout mostra un package a `40` pin. Nel Prophet VS servono due dissipatori identici, uno per `U449` e uno per `U425`.
 

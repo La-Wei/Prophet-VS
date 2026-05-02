@@ -6,6 +6,8 @@ Obiettivo: trovare due moduli sostitutivi per `CEM5530` del Sequential Circuits 
 
 Nota importante: `ELD5530` e' il ricambio Synthelectro/Eric Penot. Con gli altri contatti non chiamarlo necessariamente `ELD5530`: chiedere "CEM5530 replacement modules" o "CEM5530 clone modules" compatibili Prophet VS.
 
+Aggiornamento: sono stati trovati in casa due moduli `Straylight Engineering X5530` con quattro `SMP18` per scheda. Prima di comprare altri ricambi, vedere `straylight_x5530_moduli_trovati.md` e farli verificare al tecnico.
+
 ## Priorita contatti
 
 | Priorita | Contatto | Cosa chiedere | Canale | Fonte/nota |

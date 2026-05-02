@@ -14,6 +14,7 @@ Quello che risulta dalle fonti:
 - Gearspace cita una clonazione tramite Maxim `MAX5167` e riporta che qualcuno intendeva rimettere online gli schemi, ma non ho trovato quegli schemi pubblicati. Quindi `MAX5167` e' la pista tecnica piu plausibile, non una conferma ufficiale della BOM ELD5530.
 - Nello stesso thread viene chiesto a Eric Penot di rilasciare specifiche complete/open source, ma non ho trovato evidenza che siano state pubblicate.
 - Straylight descrive un proprio modulo `CEM5530` a PCB 4 layer prodotto in fabbrica, ma non pubblica schema o file di produzione.
+- La foto utente mostra due moduli `Straylight Engineering X5530` con quattro IC `SMP18` per scheda. Questa e' una pista reale gia disponibile, da verificare fisicamente prima di comprare altro.
 - Le vecchie alternative citate nei forum includono board basate su `SSM2300` e board basate su `PD508/CEM5508`, ma anche qui senza file di progetto pubblici.
 
 Nota batteria: la pagina Synthelectro 2015 cita sia mod SRAM non volatile sia due `ELD5530` nello stesso Prophet VS. Solo la mod SRAM non volatile elimina la batteria; `ELD5530` non riguarda la memoria patch. Vedere `../01_problemi_e_fix/batteria_memoria_nvram.md`.
@@ -33,6 +34,7 @@ Conclusione operativa: questo non e' un progetto pronto da mandare in produzione
 
 Datasheet esterni da scaricare/verificare:
 
+- Analog Devices `SMP18`: `https://www.analog.com/en/products/smp18.html`
 - Maxim/Analog Devices `MAX5167-MAX5167N`: `https://www.analog.com/media/en/technical-documentation/data-sheets/MAX5167-MAX5167N.pdf`
 - Analog Devices `MAX5167L` product page: `https://www.analog.com/en/products/max5167l.html`
 - Analog Devices `SSM2300`: `https://www.analog.com/en/products/ssm2300.html`
@@ -78,7 +80,23 @@ Prophet VS socket CEM5530
 
 Prima di disegnare una PCB, compilare una tabella pin-to-pin reale partendo dall'immagine `5530/page_002.png` e dallo schema `pvs_service` pagina 6. L'OCR del pinout non e' affidabile.
 
-## Architettura A: `MAX5167`
+## Architettura A: Straylight `X5530` con 4 x `SMP18`
+
+E' la pista piu concreta per questa macchina perche due moduli sono stati trovati fisicamente.
+
+La foto mostra quattro IC `SMP18` per scheda. Il `SMP18` e' un sample & hold ottale a ingresso multiplexato: quattro IC danno `32` canali teorici, sufficienti per emulare un `CEM5530` a `30` canali con due canali extra non usati o gestiti dalla logica.
+
+Questa architettura non e' `ELD5530` Synthelectro e non e' il prototipo `MAX5167`. E' il clone/ricambio Straylight gia documentato come board `5530`.
+
+Azioni:
+
+- leggere `straylight_x5530_moduli_trovati.md`;
+- verificare pin 1 e socket originali prima dell'installazione;
+- non aggiungere dissipatori ai cloni `X5530` prima di avere misure: i dissipatori citati per il Prophet VS sono per i `CEM5530` originali;
+- se serve, scrivere a Straylight solo per istruzioni/orientamento, non per comprare subito;
+- considerare `MAX5167` solo come backup se questi moduli non sono utilizzabili.
+
+## Architettura B: `MAX5167`
 
 E' l'architettura piu vicina a quanto viene attribuito a `ELD5530`, ma va trattata come ipotesi tecnica: Synthelectro conferma "Maxim Integrated", non la sigla `MAX5167`.
 
@@ -98,7 +116,7 @@ Punti da progettare/verificare:
 
 Nota critica: la pagina Synthelectro dice che la versione 2 include la gestione delle alimentazioni necessarie. Questo e' un indizio forte che una semplice piedinatura adattata non basta.
 
-## Architettura B: 4 x `SSM2300`
+## Architettura C: 4 x `SSM2300`
 
 Architettura citata per vecchie board NMC/Cantos/John Leimseider.
 
@@ -114,7 +132,7 @@ Punti da progettare/verificare:
 
 Questa strada e' interessante solo se il tecnico ha accesso a `SSM2300` autentici e accetta una progettazione piu complessa.
 
-## Architettura C: 4 x `PD508/CEM5508`
+## Architettura D: 4 x `PD508/CEM5508`
 
 Architettura storica citata per vecchie board Wine Country / emulatori anni 90.
 
@@ -199,6 +217,7 @@ Thank you.
 - Gearspace, pagina 2 stessa discussione: `https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/724391-prophet-vs-reliability-2.html`
 - Straylight Engineering, vecchia pagina clone 5530: `https://www.straylightengineering.com/5530-clone-boards-available-new-design/`
 - Straylight Engineering, update Jan 2023: `https://www.straylightengineering.com/update-jan-2023/`
+- Analog Devices `SMP18`: `https://www.analog.com/en/products/smp18.html`
 - Analog Devices / Maxim `MAX5167`: `https://www.analog.com/en/products/max5167l.html`
 - Analog Devices / Maxim `MAX5167` datasheet PDF: `https://www.analog.com/media/en/technical-documentation/data-sheets/MAX5167-MAX5167N.pdf`
 - Analog Devices `SSM2300`: `https://www.analog.com/en/products/ssm2300.html`

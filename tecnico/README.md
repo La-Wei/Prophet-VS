@@ -14,12 +14,13 @@ Questa cartella e' pensata per un tecnico che deve diagnosticare un Sequential C
 5. `07_autocostruzione_ricambi/cem5530_clone_build_dossier.md`
 6. `07_autocostruzione_ricambi/max5167_v2_like_pre_design.md`
 7. `07_autocostruzione_ricambi/rev_a_max5167_prototipo/README.md`
-8. `07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`
-9. `01_problemi_e_fix/batteria_memoria_nvram.md`
-10. `01_problemi_e_fix/jack_sostituzione.md`
-11. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
-12. `02_checklist_misure/visual_inspection_checklist.md`
-13. `02_checklist_misure/safe_measurement_plan.md`
+8. `07_autocostruzione_ricambi/straylight_x5530_moduli_trovati.md`
+9. `07_autocostruzione_ricambi/contatti_acquisto_eld5530_cem5530.md`
+10. `01_problemi_e_fix/batteria_memoria_nvram.md`
+11. `01_problemi_e_fix/jack_sostituzione.md`
+12. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
+13. `02_checklist_misure/visual_inspection_checklist.md`
+14. `02_checklist_misure/safe_measurement_plan.md`
 
 ## Identificazione regolatori nella foto
 
