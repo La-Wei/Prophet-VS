@@ -21,6 +21,7 @@ Questa cartella e' pensata per un tecnico che deve diagnosticare un Sequential C
 12. `01_problemi_e_fix/pannello_posteriore_ricambi.md`
 13. `02_checklist_misure/visual_inspection_checklist.md`
 14. `02_checklist_misure/safe_measurement_plan.md`
+15. `01_problemi_e_fix/ronzio_acuto_chorus_u916_ne571/README.md`
 
 ## Identificazione regolatori nella foto
 
